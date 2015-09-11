@@ -2,6 +2,13 @@
 layout: default
 ---
 
+{% if page.embed %}
+<div class="video-splash">
+    <iframe width="560" height="315" src='{{ page.embed }}' frameborder="0" allowfullscreen></iframe>
+    {{ page.embed }}
+</div>
+{% endif %}
+
 {% assign minutes = content | strip_html | number_of_words | divided_by: 180 %}
 {% if minutes == 0 %}
 {% assign minutes = 1 %}

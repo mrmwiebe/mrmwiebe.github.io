@@ -1,5 +1,5 @@
 ---
-layout:     video
+layout:     post
 title:      Video Post!
 date:       2015-07-11
 summary:    Testing video capabilitiessssss

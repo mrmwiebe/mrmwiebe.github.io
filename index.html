@@ -7,8 +7,28 @@ layout: default
   <div class="posts">
     {% for post in paginator.posts %}
       <div class="post py3">
+         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
         <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+
+            {% if post.splash && !post.embed %}
+
+                <div class="loop-splash">
+                    <img src="{{ post.splash }}" alt="{{ post.splashalt}}" />
+                </div>
+
+            {% endif %}
+
+
+            <h3 class="h1 post-title">{{ post.title }}</h3>
+        </a>
+
+        {% if post.embed %}
+            <div class="video-splash">
+                <iframe width="560" height="315" src='{{ post.embed }}' frameborder="0" allowfullscreen></iframe>
+            </div>
+            <br/>
+        {% endif %}
+
         <p class="post-summary">
           {% if post.summary %}
             {{ post.summary }}
