@@ -1,44 +1,44 @@
 ---
-layout: default
+layout:     display
 ---
 
-<div class="home">
 
-  <div class="posts">
-    {% for post in paginator.posts %}
-      <div class="post py3">
-         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-        <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-
-            {% if post.splash && !post.embed %}
-
-                <div class="loop-splash">
-                    <img src="{{ post.splash }}" alt="{{ post.splashalt}}" />
-                </div>
-
+<header class="site-header white bg-gray bg-cover bg-center vh-100" style="background-image: url(images/homepage-background.jpeg)">
+    <div class="mt2 wrap">
+        <div class="measure">
+            <a href="{{ site.baseurl }}/" class="site-title">{{ site.title }}</a>
+            <nav class="site-nav">
+                {% include navigation.html %}
+            </nav>
+            <div class="clearfix"></div>
+            {% if site.show_social_icons %}
+                {% include social_links.html %}
             {% endif %}
+        </div>
+    </div>
 
-
-            <h3 class="h1 post-title">{{ post.title }}</h3>
-        </a>
-
-        {% if post.embed %}
-            <div class="video-splash">
-                <iframe width="560" height="315" src='{{ post.embed }}' frameborder="0" allowfullscreen></iframe>
-            </div>
-            <br/>
-        {% endif %}
-
-        <p class="post-summary">
-          {% if post.summary %}
-            {{ post.summary }}
-          {% else %}
-            {{ post.excerpt }}
-          {% endif %}
+    <div class="center px2 py4">
+        <h1 class="h1 h0-responsive caps mt4 mb0 regular">GAME TRAILERS</h1>
+        <p class="h3 white">
+            I make video game trailers for rad people.
         </p>
-      </div>
-    {% endfor %}
-  </div>
+        <a href="#" class="h3 btn btn-primary mb4">Here's Proof</a>
+    </div>
+</header>
 
-  {% include pagination.html %}
-</div>
+<section class="container px2 py3">
+    <div class="clearfix mxn2">
+        <div class="sm-col sm-col-4 px2">
+            <h2 class="h1 mb0">Bacon</h2>
+            <p>Bacon ipsum dolor sit amet chuck prosciutto landjaeger ham hock filet mignon shoulder hamburger pig venison. Ham bacon corned beef, sausage kielbasa flank tongue pig drumstick capicola swine short loin ham hock kevin.</p>
+        </div>
+        <div class="sm-col sm-col-4 px2">
+            <h2 class="h1 mb0">Bratwurst</h2>
+            <p>Bacon ipsum dolor sit amet chuck prosciutto landjaeger ham hock filet mignon shoulder hamburger pig venison. Ham bacon corned beef, sausage kielbasa flank tongue pig drumstick capicola swine short loin ham hock kevin.</p>
+        </div>
+        <div class="sm-col sm-col-4 px2">
+            <h2 class="h1 mb0">Andouille</h2>
+            <p>Bacon ipsum dolor sit amet chuck prosciutto landjaeger ham hock filet mignon shoulder hamburger pig venison. Ham bacon corned beef, sausage kielbasa flank tongue pig drumstick capicola swine short loin ham hock kevin.</p>
+        </div>
+    </div>
+</section>
