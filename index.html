@@ -12,7 +12,7 @@ layout:     display
             </nav>
             <div class="clearfix"></div>
             {% if site.show_social_icons %}
-                {% include social_links.html %}
+            {% include social_links.html %}
             {% endif %}
         </div>
     </div>
@@ -26,47 +26,108 @@ layout:     display
     </div>
 </header>
 
-<section class="container px2 py3">
+<div class="container px2 py3">
     <div class="clearfix mxn2">
+
+
+        {% for post in site.categories['news'] limit:1 %}
+
+        <a href="{{ post.url }}">{{ post.title }}</a>
+
+        {% endfor %}
+
+
+
+        {% for post in site.categories['homepage-video'] limit:1 %}
+
         <div class="clearfix">
-            <div>
+            <div class="sm-col sm-col-12 p1">
                 Latest Video
             </div>
-            <div class="sm-col sm-col-8">
+            <div class="sm-col sm-col-8 p1">
                 <div class="video-wrapper">
-                    <iframe src="https://player.vimeo.com/video/134729093" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    <iframe src="{{ post.embed }}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                 </div>
             </div>
-
-            <div class="sm-col sm-col-4">
-                sdfasfdasda333
+            <div class="sm-col sm-col-4 p1">
+                <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+                    <h2>{{ post.title }}</h2>
+                    <p>
+                        {{ post.summary }}
+                    </p>
+                </a>
             </div>
         </div>
 
-        <div class="sm-col sm-col-4">
-            <div class="video-wrapper">
-            <iframe src="https://player.vimeo.com/video/134729093" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-            </div>
-        </div>
-        <div class="sm-col sm-col-4">
-            <div class="video-wrapper">
-            <iframe src="https://player.vimeo.com/video/134729093" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-            </div>
-        </div>
-        <div class="sm-col sm-col-4">
-            <div class="video-wrapper">
-            <iframe src="https://player.vimeo.com/video/134729093" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-            </div>
-        </div>
-        <div class="sm-col sm-col-4">
-            <div class="video-wrapper">
-            <iframe src="https://player.vimeo.com/video/134729093" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-            </div>
-        </div>
-        <div class="sm-col sm-col-4">
-            <div class="video-wrapper">
-            <iframe src="https://player.vimeo.com/video/134729093" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-            </div>
-        </div>
+        {% endfor %}
+
     </div>
-</section>
+</div>
+
+<div id="video-thumbnails" class="container">
+    <div class="clearfix">
+
+        {% for post in site.categories['homepage-video'] offset:1 limit:6 %}
+
+        <!-- Darkest Dungeon -->
+        <div class="video-thumbnail col sm-col-4 p1">
+            <div class="video-overlay">
+                <div class="vo-text">
+                    <img src="images/play.png" class="img-responsive" width="45" />
+                    <h3>Game Trailer</h3>
+                </div>
+            </div>
+            <a class="open-popup-link" href="#video-popup-darkest-dungeon">
+                <img src="http://i.vimeocdn.com/video/505700326_640.jpg" />
+            </a>
+            <div id="video-popup-darkest-dungeon" class="popup mfp-hide video-wrapper">
+                <iframe src="//player.vimeo.com/video/118616658" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-thumbnail col sm-col-4 p1">
+            <div class="video-overlay">
+                <div class="vo-text">
+                    <img src="images/play.png" class="img-responsive" width="45" />
+                    <h3>Game Trailer</h3>
+                </div>
+            </div>
+            <a class="open-popup-link" href="#video-popup-darkest-dungeon">
+                <img src="http://i.vimeocdn.com/video/505700326_640.jpg" />
+            </a>
+            <div id="video-popup-darkest-dungeon" class="popup mfp-hide video-wrapper">
+                <iframe src="//player.vimeo.com/video/118616658" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="video-thumbnail col sm-col-4 p1">
+            <div class="video-overlay">
+                <div class="vo-text">
+                    <img src="images/play.png" class="img-responsive" width="45" />
+                    <h3>Game Trailer</h3>
+                </div>
+            </div>
+            <a class="open-popup-link" href="#video-popup-darkest-dungeon">
+                <img src="http://i.vimeocdn.com/video/505700326_640.jpg" />
+            </a>
+            <div id="video-popup-darkest-dungeon" class="popup mfp-hide video-wrapper">
+                <iframe src="//player.vimeo.com/video/118616658" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </div>
+
+
+        {% endfor %}
+
+    </div>
+
+
+</div>
+
+<!--Page specific Javascript-->
+<script src="js/magnific-min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$('.open-popup-link').magnificPopup({
+    type:'inline',
+    midClick: true // Allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source in href.
+});
+</script>
