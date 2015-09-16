@@ -53,8 +53,11 @@ layout:     display
                 <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
                     <h2>{{ post.title }}</h2>
                     <p>
-                        {{ post.summary }}
+                        {{ post.excerpt }}
                     </p>
+                    <a class="right-align">
+                        Read more...
+                    </a>
                 </a>
             </div>
         </div>
