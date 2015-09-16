@@ -1,5 +1,5 @@
 ---
-layout:     video
+layout:     post
 title:      ROCKETS ROCKETS ROCKETS
 date:       2015-07-11
 categories: homepage-video video

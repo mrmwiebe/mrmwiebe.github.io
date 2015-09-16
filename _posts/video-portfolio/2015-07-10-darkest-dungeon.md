@@ -1,5 +1,5 @@
 ---
-layout:     video
+layout:     post
 title:      Darkest Dungeon
 date:       2015-07-10
 categories: homepage-video video

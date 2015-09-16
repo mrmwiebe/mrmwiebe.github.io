@@ -1,5 +1,5 @@
 ---
-layout:     video
+layout:     post
 title:      Lovers in a Dangerous Spacetime
 date:       2015-09-15
 categories: featured-video video

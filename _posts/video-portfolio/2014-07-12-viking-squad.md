@@ -1,5 +1,5 @@
 ---
-layout:     video
+layout:     post
 title:      Viking Squad
 date:       2014-07-12
 categories: homepage-video

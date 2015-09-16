@@ -1,5 +1,5 @@
 ---
-layout:     video
+layout:     post
 title:      FTL - Advanced Edition
 date:       2013-10-17
 categories: homepage-video video

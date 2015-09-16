@@ -1,5 +1,5 @@
 ---
-layout:     video
+layout:     post
 title:      Crypt of the Necrodancer
 date:       2014-07-14
 categories: homepage-video video
