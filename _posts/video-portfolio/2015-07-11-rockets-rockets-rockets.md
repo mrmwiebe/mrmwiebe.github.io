@@ -1,19 +1,41 @@
 ---
-layout:     post
+layout:     video
 title:      ROCKETS ROCKETS ROCKETS
 date:       2015-07-11
-categories: homepage-video
+categories: homepage-video video
 embed:      https://player.vimeo.com/video/134729093
-videoimg:   https://i.vimeocdn.com/video/528351692_640.jpg
+videoimg:   https://i.vimeocdn.com/video/535239779_640.jpg
 type:       Game Trailer
 ---
 
 Radial Games' multiplayer shoot-em-up has you flying Rockets that shoot Rockets at other Rockets.
+
 
 ###Credits
 _Game by_ - Radial Games  
 _Trailer by_ - Marlon Wiebe  
 _Music by_ - Ben Lam  
 _Audio by_ - Power Up Audio  
+_Actors_ - Allan Lavell, Kailey Mander
+_Production Assitance_ - Connor Bell
 
 ###Making Of
+
+This one was super fun.  When I was first talking with Andy Moore about the trailer, he suggested having two people playing the game as the main attraction of the game is sitting next to a friend.  
+
+Inspired by the visuals and Ben Lam's amazing soundtrack, I wanted it to have a fast cut and bright music video vibe.  What goes well with music videos?  Ring lights! :D
+
+I didn't have access to a ring light, but I knew a friend of mine Connor Bell had a programmable LED strips that glow and light up with color and I thought of just rolling it into a ring and holding it up to the actors faces to get a bright halo effect.  Here's a shot by Kailey while we were making the ring.
+
+**INSERT IMAGE Here**
+
+For the slo mo part with Allan getting knocked back, I used the slo mo function on my iPhone and captured him separately from Kailey and then composited them together in post.  Since the camera was recording at 23.976fps and the slo mo was capturing at 240fps, I was able to slow down the footage 10x!
+
+###What I Used
+
+ - iPhone 6
+ - FiLMiC Pro App for iPhone
+ - After Effects CS6
+  - Element 3D plugin
+  - Real Glow plugin
+ - Panasonic GH2

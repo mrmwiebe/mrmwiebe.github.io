@@ -10,11 +10,11 @@ date_format: "%b %-d, %Y"
 paginate_path: "/blog/page:num/"
 
 # Google services
-google_analytics:
+google_analytics:   'UA-47397211-2'
 google_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
