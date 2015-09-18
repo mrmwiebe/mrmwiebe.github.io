@@ -8,7 +8,7 @@ videoimg:   https://i.vimeocdn.com/video/487836857_640.jpg
 type:       Game Trailer
 ---
 
-The world's one and only roguelike rhythm game beats it's way out of Early Access and into your heart.
+The world's one and only roguelike rhythm game beats it's way into Early Access and into your heart.
 
 ###Credits
 _Editing/Animation_ - Marlon Wiebe  

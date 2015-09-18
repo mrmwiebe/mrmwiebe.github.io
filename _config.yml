@@ -17,7 +17,7 @@ google_verification:
 animated:             true
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 
 # Disqus post comments
@@ -26,16 +26,8 @@ disqus_shortname:   marlonmakes
 
 # Social icons
 github_username:    mrmwiebe
-bitbucket_username:
-stackoverflow_id:
 twitter_username:   mr_m_wiebe
-google_plus_id:
-linkedin_username:
-angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
-flattr_button:
+vimeo_username:     mrmwiebe
 
 # Post sharing icons
 show_sharing_icons: false

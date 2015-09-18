@@ -10,6 +10,9 @@
                 <p class="center">
                     I'm Marlon.  I make videos and video game trailers full-time, but like to make other digital stuff such as websites and games. :)
                 </p>
+                {% if site.show_social_icons %}
+                  {% include social_links.html %}
+                {% endif %}
             </div>
         </div>
     </div>
@@ -18,6 +21,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="js/jquery.fitvids.js"></script>
+<script src="js/jquery.cover.js"></script>
 
 <script>
 
@@ -26,6 +30,17 @@ $(document).ready(function(){
     $(".video-wrapper").fitVids();
 
 
+    //Cover
+    var $element = $('.cover');
+    $element.cover();
+
+    // Update on resize
+    $(window).resize(function() {
+      $element.cover('set');
+    });
+
+
+    //jQuery Scroll
     $(".scroll").click(function(event) {
         event.preventDefault();
         $('html,body').animate( { scrollTop:$(this.hash).offset().top } , 1000);

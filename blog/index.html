@@ -4,41 +4,55 @@ layout: default
 
 <div class="home">
 
-  <div class="posts">
-    {% for post in paginator.posts %}
-      <div class="post py3">
-         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-        <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+    <div class="posts">
 
-            {% if post.splash && !post.embed %}
+        {% for post in paginator.posts %}
+
+        <div class="post py3">
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+                <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+
+                {% if post.splash && !post.embed %}
 
                 <div class="loop-splash">
                     <img src="{{ post.splash }}" alt="{{ post.splashalt}}" />
                 </div>
 
-            {% endif %}
+                {% endif %}
 
 
-            <h3 class="h1 post-title">{{ post.title }}</h3>
-        </a>
+                <h3 class="h1 post-title">{{ post.title }}</h3>
+            </a>
 
-        {% if post.embed %}
+            {% if post.embed %}
+
             <div class="video-splash">
                 <iframe width="560" height="315" src='{{ post.embed }}' frameborder="0" allowfullscreen></iframe>
             </div>
+
             <br/>
-        {% endif %}
 
-        <p class="post-summary">
-          {% if post.summary %}
-            {{ post.summary }}
-          {% else %}
-            {{ post.excerpt }}
-          {% endif %}
-        </p>
-      </div>
-    {% endfor %}
-  </div>
+            {% endif %}
 
-  {% include pagination.html %}
+            <p class="post-summary">
+                {% if post.summary %}
+                    {{ post.summary }}
+                {% else %}
+                    {{ post.excerpt }}
+                {% endif %}
+            </p>
+
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+                <h6 class="caps right-align">
+                    Read more
+                </h6>
+            </a>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+    {% include pagination.html %}
 </div>
