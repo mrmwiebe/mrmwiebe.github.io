@@ -10,13 +10,17 @@ layout:     display
     <div class="mt2 wrap">
         <div class="measure">
             <a href="{{ site.baseurl }}/" class="site-title">{{ site.title }}</a>
+
             <nav class="site-nav">
                 {% include navigation.html %}
             </nav>
+
             <div class="clearfix"></div>
+
             {% if site.show_social_icons %}
-            {% include social_links.html %}
+                {% include social_links.html %}
             {% endif %}
+
         </div>
     </div>
 
@@ -30,12 +34,12 @@ layout:     display
 
 
 
-        <div class="video-bg">
-            <video autoplay loop class="fillWidth">
-                <source src="{{ site.baseurl }}/images/header.mp4" type="video/mp4" />
-                Your browser does not support the video tag. I suggest you upgrade your browser.
-            </video>
-        </div><!-- end video-container -->
+    <div class="video-bg">
+        <video autoplay loop class="fillWidth">
+            <source src="{{ site.baseurl }}/images/header.mp4" type="video/mp4" />
+            Your browser does not support the video tag. I suggest you upgrade your browser.
+        </video>
+    </div><!-- end video-container -->
 
 
 </header>
@@ -81,7 +85,7 @@ layout:     display
 
         <div class="col sm-col-12 p1">
             <a href="/videos/">
-                <h6 class="caps right-align">
+                <h6 class="caps center">
                     See all videos
                 </h6>
             </a>
@@ -91,8 +95,58 @@ layout:     display
 
 </div>
 
+<hr/>
+
+<!--Testimonials-->
 <div class="container px2 py1">
     <div class="clearfix mxn2">
+        <h2 class="center">
+            Testimonials
+        </h2>
+
+        <ul class="lightSlider">
+            <li class="center container">
+                <div class="col sm-col-2 hide-text">.</div>
+                <div class="col sm-col-8 p2">
+                    <p>"Our game's trailers generated hundreds of thousands of views thanks to Marlon's outstanding work.  Not only is he extremely skilled, creative, and knowledgeable when it comes to trailers, but he also did an amazing job for us on our cutscenes and our live action mini documentary.  Marlon always went above and beyond what we asked for, and really became an indispensable part of our team.  I recommend Marlon unreservedly."</p>
+                    <div class="right">
+                        <h4 class="left-align light-font">
+                            Ryan Clark <br/>
+                            <a>Brace Yourself Games</a>
+                        </h4>
+                    </div>
+                </div>
+                <div class="col sm-col-2 hide-text">.</div>
+            </li>
+
+            <li class="center container">
+                <div class="col sm-col-2 hide-text">.</div>
+                <div class="col sm-col-8 p2">
+                    <p>"Marlon was awesome to work with and went way beyond what we imaged for our trailer. Every time we'd see an updated edit, the team would get excited about the game all over again."</p>
+                    <div class="right">
+                        <h4 class="left-align light-font">
+                            Matt Hammill <br/>
+                            <a>Asteroid Base</a>
+                        </h4>
+                    </div>
+                </div>
+                <div class="col sm-col-2 hide-text">.</div>
+            </li>
+
+        </ul>
 
     </div>
+</div>
+
+<hr/>
+
+<!--CTA-->
+<div class="center px2 py2">
+    <h2 class="h2">
+        Convinced?
+    </h2>
+    <p>
+        Let's talk about your next trailer! :)
+    </p>
+    <a href="#portfolio" class="scroll h3 btn btn-primary mb4">Email me</a>
 </div>
