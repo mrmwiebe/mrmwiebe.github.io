@@ -2,7 +2,7 @@
 layout:     post
 title:      Viking Squad
 date:       2014-07-12
-categories: homepage-video
+categories: video
 embed:      https://player.vimeo.com/video/100565953
 videoimg:   http://i.vimeocdn.com/video/488840124_640.jpg
 type:       Game Trailer

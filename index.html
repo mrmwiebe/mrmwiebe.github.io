@@ -3,15 +3,15 @@ layout:     display
 ---
 
 
-<header class="cover-container site-header white bg-gray bg-cover bg-center vh-100">
+<header class="cover-container white site-header bg-gray bg-cover bg-center vh-100">
 
 
 
     <div class="mt2 wrap">
         <div class="measure">
-            <a href="{{ site.baseurl }}/" class="site-title">{{ site.title }}</a>
+            <a href="{{ site.baseurl }}/" class="site-title white">{{ site.title }}</a>
 
-            <nav class="site-nav">
+            <nav class="site-nav white">
                 {% include navigation.html %}
             </nav>
 
@@ -25,11 +25,11 @@ layout:     display
     </div>
 
     <div class="center px2 py4">
-        <h1 class="h1 h0-responsive caps mt4 mb0 regular">GAME TRAILERS</h1>
+        <h1 class="h1 h0-responsive caps mt4 mb0 regular white">GAME TRAILERS</h1>
         <p class="h3 white">
             I make video game trailers for rad people.
         </p>
-        <a href="#portfolio" class="scroll h3 btn btn-primary mb4">Here's Proof</a>
+        <a href="#portfolio" class="scroll btn btn-outline white">Here's Proof</a>
     </div>
 
 
@@ -74,23 +74,75 @@ layout:     display
 </div>
 
 <div id="video-thumbnails" class="container px2 py1">
-    <div class="clearfix mxn2">
 
-        {% for post in site.categories['homepage-video'] limit:6 %}
+    {% for post in site.categories['testimonial'] limit:2 %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+  {% if thecycle == 'odd' %}
+  {% endif %}
 
-        {% include video-thumbnail.html %}
+    <hr/>
 
-        {% endfor %}
+    {% if thecycle == 'odd' %}
 
+    <div class="clearfix py2">
 
-        <div class="col sm-col-12 p1">
-            <a href="/videos/">
-                <h6 class="caps center">
-                    See all videos
-                </h6>
-            </a>
+        <div class="col sm-col-6">
+            <p>"{{ post.quote }}"</p>
+            <div class="right">
+                <h4 class="left-align light-font">
+                    {{ post.quote-name}} <br/>
+                    <a href="{{ post.quote-link }}">{{ post.quote-comp}}</a>
+                </h4>
+            </div>
         </div>
 
+        <div class="col sm-col-1 hide-text">
+            .
+        </div>
+
+        <div class="col sm-col-5">
+            {% include video-thumbnail.html %}
+        </div>
+
+    </div>
+
+    {% endif %}
+
+    {% if thecycle == 'even' %}
+
+    <div class="clearfix py2">
+
+        <div class="col sm-col-5">
+            {% include video-thumbnail.html %}
+        </div>
+
+        <div class="col sm-col-1 hide-text">
+            .
+        </div>
+
+        <div class="col sm-col-6">
+            <p>"{{ post.quote }}"</p>
+            <div class="right">
+                <h4 class="left-align light-font">
+                    {{ post.quote-name}} <br/>
+                    <a href="{{ post.quote-link }}">{{ post.quote-comp}}</a>
+                </h4>
+            </div>
+        </div>
+
+    </div>
+
+    {% endif %}
+
+    {% endfor %}
+
+
+    <div class="clearfix p1">
+        <a href="/videos/">
+            <h6 class="caps center">
+                See all videos
+            </h6>
+        </a>
     </div>
 
 </div>
@@ -108,7 +160,7 @@ layout:     display
             <li class="center container">
                 <div class="col sm-col-2 hide-text">.</div>
                 <div class="col sm-col-8 p2">
-                    <p>"Our game's trailers generated hundreds of thousands of views thanks to Marlon's outstanding work.  Not only is he extremely skilled, creative, and knowledgeable when it comes to trailers, but he also did an amazing job for us on our cutscenes and our live action mini documentary.  Marlon always went above and beyond what we asked for, and really became an indispensable part of our team.  I recommend Marlon unreservedly."</p>
+                    <p>"Our game's trailers generated hundreds of thousands of views thanks to Marlon's outstanding work.  He also did an amazing job for us on our cutscenes and our live action mini documentary.  Marlon always went above and beyond what we asked for, and really became an indispensable part of our team."</p>
                     <div class="right">
                         <h4 class="left-align light-font">
                             Ryan Clark <br/>
@@ -148,5 +200,5 @@ layout:     display
     <p>
         Let's talk about your next trailer! :)
     </p>
-    <a href="#portfolio" class="scroll h3 btn btn-primary mb4">Email me</a>
+    <a href="{{ site.baseurl }}/contact/" class="scroll h3 btn btn-primary mb4">Email me</a>
 </div>

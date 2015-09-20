@@ -2,10 +2,15 @@
 layout:     post
 title:      Lovers in a Dangerous Spacetime
 date:       2015-09-15
-categories: featured-video video
+categories: testimonial featured-video video
 embed:      https://www.youtube.com/embed/pOnZ9hYiArs?rel=0
 videoimg:   https://i.vimeocdn.com/video/535240921_640.jpg
 type:       Game Trailer
+
+quote-name: Matt Hammill
+quote-comp: Asteroid Base
+quote-link: asteroidbase.com
+quote: Marlon was awesome to work with and went way beyond what we imaged for our trailer. Every time we'd see an updated edit, the team would get excited about the game all over again.
 ---
 
 ALERT!  ALERT!  Lovers HQ has been destroyed by Anti-Love!  You and a friend must work together to defeat evil and restore love in this intense co-op game.

@@ -2,7 +2,7 @@
 layout:     post
 title:      ROCKETS ROCKETS ROCKETS
 date:       2015-07-11
-categories: homepage-video video
+categories: video
 embed:      https://player.vimeo.com/video/134729093
 videoimg:   https://i.vimeocdn.com/video/535239779_640.jpg
 type:       Game Trailer
