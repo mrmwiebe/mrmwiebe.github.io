@@ -25,9 +25,8 @@ ajaxify_contact_form: false
 disqus_shortname:   marlonmakes
 
 # Social icons
-github_username:    mrmwiebe
 twitter_username:   mr_m_wiebe
-vimeo_username:     mrmwiebe
+vimeo_username:
 
 # Post sharing icons
 show_sharing_icons: false

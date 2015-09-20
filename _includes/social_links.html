@@ -2,16 +2,14 @@
     <div class="left">
         <!--
         This if doesn't work???
-         if site.vimeo_username 
+         if site.vimeo_username
 
         I can use any other site variable here, and also it works in the <a> below, but
         using that if does not display. >:(
         -->
-        <a class="fa fa-vimeo" href="https://vimeo.com/{{ site.vimeo_username }}"></a>
 
-        {% if site.github_username %}
-        <a class="fa fa-github" href="https://github.com/{{ site.github_username }}"></a>
-        {% endif %}
+
+
 
         {% if site.bitbucket_username %}
         <a class="fa fa-bitbucket" href="https://bitbucket.org/{{ site.bitbucket_username }}"></a>
