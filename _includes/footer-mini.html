@@ -1,0 +1,56 @@
+<footer class="center">
+
+
+    <div class="container measure">
+        <div class="clearfix flex flex-center">
+            <div class="md-col col-3">
+                <img src="/images/me.jpg" alt="Marlon Wiebe" class="circle" style="max-width:100px;"/>
+            </div>
+            <div class="md-col px2 col-9">
+                <p>Hit me up on twitter <a href="http://twitter.com/mr_m_wiebe">@mr_m_wiebe</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="js/jquery.fitvids.js"></script>
+<script src="js/lightslider.min.js"></script>
+
+<script>
+
+$(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $(".video-wrapper").fitVids();
+
+    $(".lightSlider").lightSlider({
+        item:1,
+        loop:false,
+        slideMove:2,
+        easing: 'cubic-bezier(0.25, 0, 0.25, 1)',
+        speed:600,
+        auto: true
+    });
+
+    //jQuery Scroll
+    $(".scroll").click(function(event) {
+        event.preventDefault();
+        $('html,body').animate( { scrollTop:$(this.hash).offset().top } , 1000);
+    });
+});
+
+</script>
+
+{% if site.google_analytics %}
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', '{{ site.google_analytics }}']);
+_gaq.push(['_trackPageview']);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+{% endif %}
