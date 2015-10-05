@@ -49,7 +49,7 @@ layout:     display
 
 <!--Recent Video-->
 
-<div id="portfolio" class="container px2 py1">
+<div id="portfolio" class="container px2">
     <div class="clearfix mxn2">
 
         {% for post in site.categories['featured-video'] limit:1 %}
@@ -59,19 +59,19 @@ layout:     display
                 <h3 class="mt0">Latest Vids</h3>
             </div>
 
-            <div class="sm-col sm-col-8">
+            <div class="sm-col sm-col-6">
                 <div class="video-wrapper">
                     <iframe src="{{ post.embed }}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                 </div>
             </div>
-            <div class="sm-col sm-col-4 px2">
+            <div class="sm-col sm-col-6 px2">
                 <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
                     <h2>{{ post.title }}</h2>
                     <p>
                         {{ post.excerpt }}
                     </p>
                     <h6 class="caps right-align">
-                        Read more
+                        SEE HOW IT WAS MADE
                     </h6>
                 </a>
             </div>
@@ -84,7 +84,7 @@ layout:     display
 
 <!--Video Examples-->
 
-<div id="video-thumbnails" class="container px2 py1">
+<div id="video-thumbnails" class="container px2">
     <div class="clearfix mxn2">
 
         {% for post in site.categories['homepage-video'] limit:3 %}
@@ -124,9 +124,9 @@ layout:     display
 
             <div class="col-10 mx-auto center">
                 <p>"Marlon was awesome to work with and went way beyond what we imaged for our trailer. Every time we'd see an updated edit, the team would get excited about the game all over again."</p>
-                <div class="right container" style="min-width: 300px;">
+                <div class="right container">
                     <div class="col col-4">
-                        <img class="circle mb2 fit" src="images/testimonial/mr-hammill.jpg" style="max-width:75px;"/>
+                        <img class="circle mb2 fit" style="max-width:90px;"  src="images/testimonial/mr-hammill.jpg" />
                     </div>
                     <div class="col col-7">
                         <h4 class="left-align light-font mt1 ml2">
@@ -147,11 +147,11 @@ layout:     display
 
             <div class="col-10 mx-auto center">
                 <p>"Our game's trailers generated hundreds of thousands of views thanks to Marlon's outstanding work.  Marlon always went above and beyond what we asked for, and really became an indispensable part of our team."</p>
-                <div class="right container" style="min-width: 300px;">
-                    <div class="col col-3">
-                        <img class="circle fit" src="images/testimonial/mr-clark.jpg" style="max-width:75px;"/>
+                <div class="right container" style="min-width:250px;">
+                    <div class="col col-4">
+                        <img class="circle mb2 fit" style="max-width:90px;" src="images/testimonial/mr-clark.png" />
                     </div>
-                    <div class="col col-8">
+                    <div class="col col-7">
                         <h4 class="left-align light-font mt1 ml2">
                             Ryan Clark <br/>
                             <a href="http://braceyourselfgames.com">Brace Yourself Games</a>
