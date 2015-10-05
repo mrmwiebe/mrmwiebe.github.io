@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Say Hi!
+title: Let's work together!
 permalink: /contact/
 ---
 
 <p>
-    Let me know how I can help, or just ask a question.  I won't bite.  :)
+    Tell me about your project, send me a demo and I'll get back to you as soon as I can.  Or, ask a question or even just say hi.  I try to reply to every email. :)
 </p>
 
 <div class="py2">
@@ -20,11 +20,11 @@ permalink: /contact/
   {% else %}
     <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
       <input type="text" name="email" class="field-light" placeholder="Email Address">
-      <textarea type="text" name="content" class="field-light" rows="5" placeholder="What would you like to say?"></textarea>
+      <textarea type="text" name="content" class="field-light" rows="5" placeholder="What's your project?"></textarea>
       <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
       <input type="hidden" name="_subject" value="New submission!" />
       <input type="text" name="_gotcha" style="display:none" />
-      <input type="submit" class="button button-blue button-big mobile-block" value="Say Hello">
+      <input type="submit" class="btn btn-primary mobile-block p2 right mb2" value="Send" style="max-width: 200px">
     </form>
   {% endif %}
 </div>
