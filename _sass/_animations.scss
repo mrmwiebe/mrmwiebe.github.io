@@ -58,3 +58,45 @@ Copyright (c) 2014 Daniel Eden
   -webkit-animation-name: fadeInDown;
           animation-name: fadeInDown;
 }
+
+.fade-in-out-down {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count:infinite;
+    -webkit-animation-iteration-count:infinite;
+}
+
+@-webkit-keyframes fadeInOutDown {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(0);
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: translateY(20px);
+    }
+}
+@keyframes fadeInOutDown {
+    0% {
+        opacity: 0;
+        transform: translateY(0);
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+}
+.fadeInOutDown {
+    -webkit-animation-name: fadeInOutDown;
+    animation-name: fadeInOutDown;
+}
