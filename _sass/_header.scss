@@ -19,9 +19,9 @@
     & nav a:hover,
     & nav a:focus,
     & nav a:active {
-        color: #444;
+        color: #0076df;
         opacity: 1;
-        border-bottom: 2px solid #444;
+        //border-bottom: 2px solid #00a4c8;
     }
 
     text-align: center;
@@ -41,19 +41,19 @@
 
         a {
             color: #FFF;
+
+            &:hover {
+                color: #50cce7;
+                opacity: 1;
+                //border-bottom: 2px solid #00a4c8;
+            }
         }
 
         nav a {
             color: #FFF;
         }
 
-        & nav a:hover,
-        & nav a:focus,
-        & nav a:active {
-            color: #AAA;
-            opacity: 1;
-            border-bottom: 2px solid #AAA;
-        }
+
     }
 }
 

@@ -7,7 +7,12 @@ layout:     display
 
     <div class="mt2 wrap">
         <div class="measure">
-            <a href="{{ site.baseurl }}/" class="site-title white">{{ site.title }}</a>
+            <a href="{{ site.url }}/" class="site-title">
+                <img src="/images/me.jpg" alt="Marlon Wiebe" class="circle md-hide" style="max-width:50px;"/><br class="md-hide"/>
+                {{ site.title }}
+            </a>
+
+            <img src="/images/me.jpg" alt="Marlon Wiebe" class="circle md-show left" style="max-width:45px; position:relative; top:-5px;left:10px;"/>
 
             <nav class="site-nav white">
                 {% include navigation.html %}
@@ -17,7 +22,10 @@ layout:     display
     </div>
 
     <div class="center px2 py4">
-        <h1 class="h1 h0-responsive caps mt4 mb0 regular white">GAME TRAILERS</h1>
+        <p class="center">
+            <i class="fa fa-gamepad fa-4x white"></i>
+        </p>
+        <h1 class="h1 h0-responsive caps mt0 mb0 regular white">GAME TRAILERS</h1>
         <p class="h3 white">
             I make video game trailers for rad people.
         </p>
@@ -28,7 +36,7 @@ layout:     display
     <div class="center" style="
         position: absolute;
         width: 100%;
-        bottom: 100px;">
+        bottom: 150px;">
         <!--<img class="circle mb2" src="images/testimonial/mr-clark.jpg" style="max-width: 100px;" />-->
         <!--<p class="white">"Marlon's the best." - Awesome Person"</p>-->
         <a href="#portfolio" class="scroll"><i class="fa fa-angle-down fa-3x animated infinite fadeInOutDown"></i></a>
