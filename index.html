@@ -21,7 +21,7 @@ layout:     display
         </div>
     </div>
 
-    <div class="center px2 py4">
+    <div class="center px2 py4 mt3">
         <p class="center">
             <i class="fa fa-gamepad fa-4x white"></i>
         </p>
@@ -44,7 +44,7 @@ layout:     display
 
 
     <div class="video-bg bg-cover bg-center" style="background-image: url('{{ site.baseurl }}/images/header.png')">
-        <video autoplay loop class="fillWidth md-show">
+        <video autoplay loop class="fillWidth md-show" poster="{{ site.baseurl }}/images/header.png">
             <source src="{{ site.baseurl }}/images/header.mp4" type="video/mp4" />
             Your browser does not support the video tag. I suggest you upgrade your browser.
         </video>
@@ -111,13 +111,15 @@ layout:     display
                     Watch More
                 </h6>
             </a>
-            <a href="{{ site.baseurl }}/contact/" class="h2 btn btn-primary m1"><h2 class="m2">Let's work together</h2></a>
+            <a href="{{ site.baseurl }}/contact/" class="h2 btn btn-primary m1" style="position:relative;top:-40px;">
+                <h2 class="m2">Let's work together</h2>
+            </a>
         </div>
 
     </div>
 
 </div>
-<hr/>
+<hr class="mt0"/>
 
 
 
