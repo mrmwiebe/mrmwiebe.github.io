@@ -2,7 +2,7 @@
 layout:     post
 title:      Fuego!
 date:       2015-08-30
-categories: homepage-video video
+categories: video
 embed:      https://www.youtube.com/embed/wGUljDHt9U4
 videoimg:   http://img.youtube.com/vi/wGUljDHt9U4/maxresdefault.jpg
 type:       Game Trailer
