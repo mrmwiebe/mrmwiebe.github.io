@@ -2,7 +2,7 @@
 layout:     post
 title:      Lovers in a Dangerous Spacetime
 date:       2015-09-15
-categories: featured-video video
+categories: homepage-video video
 embed:      https://www.youtube.com/embed/pOnZ9hYiArs?rel=0
 videoimg:   https://i.vimeocdn.com/video/535240921_640.jpg
 type:       Game Trailer
