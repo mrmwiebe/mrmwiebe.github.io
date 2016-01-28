@@ -6,9 +6,9 @@ layout: default
 
     <div class="posts">
 
-        {% for post in paginator.posts %}
+        {% for post in site.posts %}
 
-        {% unless post.categories contains 'hidden' %}
+        {% if post.categories contains 'dndhali' %}
 
         <div class="post py3">
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
@@ -52,11 +52,10 @@ layout: default
 
         </div>
 
-        {% endunless %}
+        {% endif %}
 
         {% endfor %}
 
     </div>
-
-    {% include pagination.html %}
+    
 </div>
