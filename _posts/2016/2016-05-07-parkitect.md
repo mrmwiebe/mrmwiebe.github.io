@@ -10,19 +10,21 @@ type:       Game Trailer
 
 Watch all 3 silly mini-trailers I helped produce for this Rollercoaster Tycoon 1&2 spiritual successor!
 
-###Credits
+### Credits  
+
 _Trailer/Concept_ - Marlon Wiebe
 _Art/Game_ - [Texel Raptor](https://texel-raptor.itch.io)
 _Audio by_ - [A Shell in the Pit](http://www.ashellinthepit.com)
 
-###Making Of
+### Making Of  
+
 The guys at [Texel Raptor](https://texel-raptor.itch.io), Garret, Sebastian, and Gordon, are the best people to work with.  It seemed like every crazy idea that I had they went for.  Even when I suggested that we make 3 mini-trailers they were like, "yeah that sounds good."  So, that's what we made.  3 x 30 second(ish) mini-trailers each with their own theme and showing off different aspects of the game.
 
 The grand overarching idea for the trailers was that it was to be making fun of the old 90s commercials for theme parks like Universal Studios with the super energetic voice over with a hard-sell of manufactured fun...but with our own twist!  It would be even more fun if things were a little off, as if we took the running of a virtual park as if it were real and the fake Executives of this park had ulterior motives for the unsuspecting patrons of the park.  So, I came up with Funtown City as a nice generic name for the park we were to advertise, and I was off to the script writing races!
 
 <br/>
 
-####BIG BROTHER
+#### BIG BROTHER  
 
 <div class="video-splash">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rbohJtVLdR4" frameborder="0" allowfullscreen></iframe>
@@ -34,7 +36,7 @@ That's where the Big Brother premise came from.  Riffing on the idea that you ca
 
 <br/>
 
-####AMUSEMINEER
+#### AMUSEMINEER  
 
 <div class="video-splash">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RvAimjvBmZA" frameborder="0" allowfullscreen></iframe>
@@ -46,7 +48,7 @@ In Funtown City however, they're not great, but the advertisers dutifully try to
 
 <br/>
 
-####EXTREME
+#### EXTREME  
 
 <div class="video-splash">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MtygNtF0B2E" frameborder="0" allowfullscreen></iframe>
