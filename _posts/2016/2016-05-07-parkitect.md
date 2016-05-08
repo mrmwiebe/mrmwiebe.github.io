@@ -56,6 +56,6 @@ YOU CAN BUILD CRAZY RIDES IN THIS GAME!  JOKES ABOUT BODILY FLUIDS!  IT'S SO EXT
 
 ADRENALINE MEGALOPOLIS IS AN INSIDE JOKE ABOUT FUNTOWN CITY SO IT HAD TO COME LAST!
 
-Overall, I was super happy with the response to these vids.  If you check out the comments in YouTube, they're 99% positive which is crazy!  Garret even made the joke that we broke YouTube cause we weren't getting any bad comments. :P  
+Overall, I was super happy with the response to these vids.  If you check out the comments in YouTube, they're 99% positive which is crazy for YouTube comments!
 
 [GO BUY PARKITECT!!!!!](http://store.steampowered.com/app/453090/)
