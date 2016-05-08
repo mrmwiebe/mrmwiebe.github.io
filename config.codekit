@@ -1363,6 +1363,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/blog\/page6\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/page6\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/posts\/axiom-verge\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/posts\/axiom-verge\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/blog\/posts\/crypt-of-the-necrodancer-release\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1395,6 +1413,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/blog\/posts\/dndhali-1st\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/posts\/dndhali-2nd\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/posts\/dndhali-2nd\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1467,6 +1494,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/blog\/posts\/monsters-and-monocles\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_site\/blog\/posts\/necrodancer-plushie-commercial\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/blog\/posts\/necrodancer-plushie-commercial\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1906,6 +1942,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/posts\/2016\/necrodancer-freddie-makingof.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.48427e+06,
+		"inputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-freddie-makingof.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-freddie-makingof.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/posts\/2016\/necrodancer-freddie-screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 827260,
+		"inputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-freddie-screen.png",
+		"outputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-freddie-screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/posts\/2016\/necrodancer-lazy-susan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169523,
+		"inputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-lazy-susan.jpg",
+		"outputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-lazy-susan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/site-thumbnail.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2315,6 +2384,213 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/garagesale\/img\/bed.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.16562e+06,
+		"inputAbbreviatedPath": "\/garagesale\/img\/bed.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/bed.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/bed2.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 743803,
+		"inputAbbreviatedPath": "\/garagesale\/img\/bed2.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/bed2.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/bed3.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 887348,
+		"inputAbbreviatedPath": "\/garagesale\/img\/bed3.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/bed3.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/bookshelf.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 997380,
+		"inputAbbreviatedPath": "\/garagesale\/img\/bookshelf.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/bookshelf.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/chair.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.0078e+06,
+		"inputAbbreviatedPath": "\/garagesale\/img\/chair.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/chair.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/couch.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 739615,
+		"inputAbbreviatedPath": "\/garagesale\/img\/couch.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/couch.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/curtains.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.80547e+06,
+		"inputAbbreviatedPath": "\/garagesale\/img\/curtains.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/curtains.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/desk.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 771385,
+		"inputAbbreviatedPath": "\/garagesale\/img\/desk.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/desk.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/desk2.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 766817,
+		"inputAbbreviatedPath": "\/garagesale\/img\/desk2.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/desk2.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/desk3.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 881340,
+		"inputAbbreviatedPath": "\/garagesale\/img\/desk3.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/desk3.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/dresser.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.14599e+06,
+		"inputAbbreviatedPath": "\/garagesale\/img\/dresser.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/dresser.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/endtable.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.19103e+06,
+		"inputAbbreviatedPath": "\/garagesale\/img\/endtable.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/endtable.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/filing cabinet.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.05796e+06,
+		"inputAbbreviatedPath": "\/garagesale\/img\/filing cabinet.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/filing cabinet.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/mirror.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 840838,
+		"inputAbbreviatedPath": "\/garagesale\/img\/mirror.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/mirror.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/shelves.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 759124,
+		"inputAbbreviatedPath": "\/garagesale\/img\/shelves.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/shelves.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/table.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 956044,
+		"inputAbbreviatedPath": "\/garagesale\/img\/table.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/table.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/table2.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 918175,
+		"inputAbbreviatedPath": "\/garagesale\/img\/table2.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/table2.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/img\/tv.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 995633,
+		"inputAbbreviatedPath": "\/garagesale\/img\/tv.JPG",
+		"outputAbbreviatedPath": "\/garagesale\/img\/tv.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/garagesale\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/garagesale\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/images\/header.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2630,6 +2906,39 @@
 		"initialSize": 9.75463e+06,
 		"inputAbbreviatedPath": "\/images\/posts\/2016\/maekgame-whiteboard.png",
 		"outputAbbreviatedPath": "\/images\/posts\/2016\/maekgame-whiteboard.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/posts\/2016\/necrodancer-freddie-makingof.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.48427e+06,
+		"inputAbbreviatedPath": "\/images\/posts\/2016\/necrodancer-freddie-makingof.jpg",
+		"outputAbbreviatedPath": "\/images\/posts\/2016\/necrodancer-freddie-makingof.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/posts\/2016\/necrodancer-freddie-screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 827260,
+		"inputAbbreviatedPath": "\/images\/posts\/2016\/necrodancer-freddie-screen.png",
+		"outputAbbreviatedPath": "\/images\/posts\/2016\/necrodancer-freddie-screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/posts\/2016\/necrodancer-lazy-susan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169523,
+		"inputAbbreviatedPath": "\/images\/posts\/2016\/necrodancer-lazy-susan.jpg",
+		"outputAbbreviatedPath": "\/images\/posts\/2016\/necrodancer-lazy-susan.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

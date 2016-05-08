@@ -2,7 +2,7 @@
 layout:     post
 title:      Darkest Dungeon
 date:       2015-07-10
-categories: video
+categories: homepage-video video
 embed:      https://player.vimeo.com/video/118616658
 videoimg:   http://i.vimeocdn.com/video/505700326_640.jpg
 type:       Game Trailer

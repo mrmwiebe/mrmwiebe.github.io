@@ -2,7 +2,7 @@
 layout:     post
 title:      Severed PSX 2015
 date:       2015-12-02
-categories: homepage-video video
+categories: video
 embed:      https://www.youtube.com/embed/cG5FyiK6Zm8
 videoimg:   /images/posts/2015/severed-thumbnail.jpg
 type:       Game Trailer
