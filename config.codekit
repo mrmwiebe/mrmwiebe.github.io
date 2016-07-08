@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19102",
+"creatorBuild": "19051",
 "files": {
 	"\/_includes\/ajaxify_content_form.html": {
 		"fileType": 8192,
@@ -1131,193 +1131,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/android-icon-144x144.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 37987,
-		"inputAbbreviatedPath": "\/_site\/android-icon-144x144.png",
-		"outputAbbreviatedPath": "\/_site\/android-icon-144x144.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/android-icon-192x192.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 67837,
-		"inputAbbreviatedPath": "\/_site\/android-icon-192x192.png",
-		"outputAbbreviatedPath": "\/_site\/android-icon-192x192.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/android-icon-36x36.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3634,
-		"inputAbbreviatedPath": "\/_site\/android-icon-36x36.png",
-		"outputAbbreviatedPath": "\/_site\/android-icon-36x36.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/android-icon-48x48.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5630,
-		"inputAbbreviatedPath": "\/_site\/android-icon-48x48.png",
-		"outputAbbreviatedPath": "\/_site\/android-icon-48x48.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/android-icon-72x72.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10669,
-		"inputAbbreviatedPath": "\/_site\/android-icon-72x72.png",
-		"outputAbbreviatedPath": "\/_site\/android-icon-72x72.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/android-icon-96x96.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 17679,
-		"inputAbbreviatedPath": "\/_site\/android-icon-96x96.png",
-		"outputAbbreviatedPath": "\/_site\/android-icon-96x96.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/apple-icon-114x114.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 24435,
-		"inputAbbreviatedPath": "\/_site\/apple-icon-114x114.png",
-		"outputAbbreviatedPath": "\/_site\/apple-icon-114x114.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/apple-icon-120x120.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 26987,
-		"inputAbbreviatedPath": "\/_site\/apple-icon-120x120.png",
-		"outputAbbreviatedPath": "\/_site\/apple-icon-120x120.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/apple-icon-144x144.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 37987,
-		"inputAbbreviatedPath": "\/_site\/apple-icon-144x144.png",
-		"outputAbbreviatedPath": "\/_site\/apple-icon-144x144.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/apple-icon-152x152.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 41920,
-		"inputAbbreviatedPath": "\/_site\/apple-icon-152x152.png",
-		"outputAbbreviatedPath": "\/_site\/apple-icon-152x152.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/apple-icon-180x180.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 57165,
-		"inputAbbreviatedPath": "\/_site\/apple-icon-180x180.png",
-		"outputAbbreviatedPath": "\/_site\/apple-icon-180x180.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/apple-icon-57x57.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7365,
-		"inputAbbreviatedPath": "\/_site\/apple-icon-57x57.png",
-		"outputAbbreviatedPath": "\/_site\/apple-icon-57x57.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/apple-icon-60x60.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7928,
-		"inputAbbreviatedPath": "\/_site\/apple-icon-60x60.png",
-		"outputAbbreviatedPath": "\/_site\/apple-icon-60x60.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/apple-icon-72x72.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10669,
-		"inputAbbreviatedPath": "\/_site\/apple-icon-72x72.png",
-		"outputAbbreviatedPath": "\/_site\/apple-icon-72x72.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/apple-icon-76x76.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 11667,
-		"inputAbbreviatedPath": "\/_site\/apple-icon-76x76.png",
-		"outputAbbreviatedPath": "\/_site\/apple-icon-76x76.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/apple-icon-precomposed.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 68047,
-		"inputAbbreviatedPath": "\/_site\/apple-icon-precomposed.png",
-		"outputAbbreviatedPath": "\/_site\/apple-icon-precomposed.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/apple-icon.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 68047,
-		"inputAbbreviatedPath": "\/_site\/apple-icon.png",
-		"outputAbbreviatedPath": "\/_site\/apple-icon.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/blog\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1336,65 +1149,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/blog\/page3\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/page3\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/page4\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/page4\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/page5\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/page5\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/page6\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/page6\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/posts\/axiom-verge\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/axiom-verge\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/blog\/posts\/crypt-of-the-necrodancer-release\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/blog\/posts\/crypt-of-the-necrodancer-release\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/posts\/cryptark\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/cryptark\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1408,65 +1167,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/blog\/posts\/dndhali-1st\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/dndhali-1st\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/posts\/dndhali-2nd\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/dndhali-2nd\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/posts\/duskers\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/duskers\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/blog\/posts\/ftl-advanced-edition\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/blog\/posts\/ftl-advanced-edition\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/posts\/fuego-launch-trailer\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/fuego-launch-trailer\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/posts\/future-unfolding\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/future-unfolding\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/posts\/ionic-video-link\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/ionic-video-link\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1480,33 +1185,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/blog\/posts\/maek-project\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/maek-project\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/posts\/monsters-and-monocles\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/monsters-and-monocles\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/posts\/necrodancer-plushie-commercial\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/necrodancer-plushie-commercial\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/blog\/posts\/rockets-rockets-rockets\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1516,29 +1194,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/blog\/posts\/severed-psx\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/severed-psx\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/blog\/posts\/severed\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/blog\/posts\/severed\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/blog\/posts\/starsector\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/blog\/posts\/starsector\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1579,46 +1239,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_site\/favicon-16x16.png": {
-		"fileType": 32768,
+	"\/_site\/images\/homepage-background.jpeg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1791,
-		"inputAbbreviatedPath": "\/_site\/favicon-16x16.png",
-		"outputAbbreviatedPath": "\/_site\/favicon-16x16.png",
+		"initialSize": 7.16424e+06,
+		"inputAbbreviatedPath": "\/_site\/images\/homepage-background.jpeg",
+		"outputAbbreviatedPath": "\/_site\/images\/homepage-background.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/favicon-32x32.png": {
+	"\/_site\/images\/homepage-background.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3115,
-		"inputAbbreviatedPath": "\/_site\/favicon-32x32.png",
-		"outputAbbreviatedPath": "\/_site\/favicon-32x32.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/favicon-96x96.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 17679,
-		"inputAbbreviatedPath": "\/_site\/favicon-96x96.png",
-		"outputAbbreviatedPath": "\/_site\/favicon-96x96.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/header.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 813717,
-		"inputAbbreviatedPath": "\/_site\/images\/header.png",
-		"outputAbbreviatedPath": "\/_site\/images\/header.png",
+		"initialSize": 2.54659e+06,
+		"inputAbbreviatedPath": "\/_site\/images\/homepage-background.png",
+		"outputAbbreviatedPath": "\/_site\/images\/homepage-background.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1810,83 +1448,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/_site\/images\/posts\/2015\/cryptark-thumbnail.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 186450,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2015\/cryptark-thumbnail.jpg",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2015\/cryptark-thumbnail.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2015\/duskers-console.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.09386e+06,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2015\/duskers-console.png",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2015\/duskers-console.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2015\/duskers-thumbnail.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 654788,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2015\/duskers-thumbnail.png",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2015\/duskers-thumbnail.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2015\/futureunfolding-thumbnail.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 317392,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2015\/futureunfolding-thumbnail.png",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2015\/futureunfolding-thumbnail.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2015\/m&m-multiplayer 1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.67339e+06,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2015\/m&m-multiplayer 1.jpg",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2015\/m&m-multiplayer 1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2015\/m&m-multiplayer 2.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 955723,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2015\/m&m-multiplayer 2.jpg",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2015\/m&m-multiplayer 2.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2015\/m&m-thumbnail.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 978773,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2015\/m&m-thumbnail.png",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2015\/m&m-thumbnail.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/images\/posts\/2015\/rockets_bts_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1894,127 +1455,6 @@
 		"initialSize": 72743,
 		"inputAbbreviatedPath": "\/_site\/images\/posts\/2015\/rockets_bts_1.jpg",
 		"outputAbbreviatedPath": "\/_site\/images\/posts\/2015\/rockets_bts_1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2015\/severed-thumbnail.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 122147,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2015\/severed-thumbnail.jpg",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2015\/severed-thumbnail.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2015\/starsector-thumbnail.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 778183,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2015\/starsector-thumbnail.png",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2015\/starsector-thumbnail.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2016\/darkestdungeonlaunch-thumbnail.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 329525,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2016\/darkestdungeonlaunch-thumbnail.png",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2016\/darkestdungeonlaunch-thumbnail.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2016\/maekgame-whiteboard.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 9.75463e+06,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2016\/maekgame-whiteboard.png",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2016\/maekgame-whiteboard.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2016\/necrodancer-freddie-makingof.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.48427e+06,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-freddie-makingof.jpg",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-freddie-makingof.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2016\/necrodancer-freddie-screen.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 827260,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-freddie-screen.png",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-freddie-screen.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/posts\/2016\/necrodancer-lazy-susan.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 169523,
-		"inputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-lazy-susan.jpg",
-		"outputAbbreviatedPath": "\/_site\/images\/posts\/2016\/necrodancer-lazy-susan.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/site-thumbnail.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 290643,
-		"inputAbbreviatedPath": "\/_site\/images\/site-thumbnail.png",
-		"outputAbbreviatedPath": "\/_site\/images\/site-thumbnail.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/testimonial\/mr-clark.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 16016,
-		"inputAbbreviatedPath": "\/_site\/images\/testimonial\/mr-clark.png",
-		"outputAbbreviatedPath": "\/_site\/images\/testimonial\/mr-clark.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/testimonial\/mr-hammill.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6841,
-		"inputAbbreviatedPath": "\/_site\/images\/testimonial\/mr-hammill.jpg",
-		"outputAbbreviatedPath": "\/_site\/images\/testimonial\/mr-hammill.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/images\/testimonial\/mr-smith.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 19266,
-		"inputAbbreviatedPath": "\/_site\/images\/testimonial\/mr-smith.jpg",
-		"outputAbbreviatedPath": "\/_site\/images\/testimonial\/mr-smith.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2050,50 +1490,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/ms-icon-144x144.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 37987,
-		"inputAbbreviatedPath": "\/_site\/ms-icon-144x144.png",
-		"outputAbbreviatedPath": "\/_site\/ms-icon-144x144.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/ms-icon-150x150.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 40882,
-		"inputAbbreviatedPath": "\/_site\/ms-icon-150x150.png",
-		"outputAbbreviatedPath": "\/_site\/ms-icon-150x150.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/ms-icon-310x310.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 137119,
-		"inputAbbreviatedPath": "\/_site\/ms-icon-310x310.png",
-		"outputAbbreviatedPath": "\/_site\/ms-icon-310x310.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/ms-icon-70x70.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10177,
-		"inputAbbreviatedPath": "\/_site\/ms-icon-70x70.png",
-		"outputAbbreviatedPath": "\/_site\/ms-icon-70x70.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/_site\/thanks\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2108,15 +1504,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/videos\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_site\/x\/dndhali\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/x\/dndhali\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2383,213 +1770,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
-		},
-	"\/garagesale\/img\/bed.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.16562e+06,
-		"inputAbbreviatedPath": "\/garagesale\/img\/bed.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/bed.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/bed2.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 743803,
-		"inputAbbreviatedPath": "\/garagesale\/img\/bed2.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/bed2.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/bed3.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 887348,
-		"inputAbbreviatedPath": "\/garagesale\/img\/bed3.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/bed3.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/bookshelf.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 997380,
-		"inputAbbreviatedPath": "\/garagesale\/img\/bookshelf.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/bookshelf.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/chair.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.0078e+06,
-		"inputAbbreviatedPath": "\/garagesale\/img\/chair.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/chair.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/couch.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 739615,
-		"inputAbbreviatedPath": "\/garagesale\/img\/couch.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/couch.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/curtains.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.80547e+06,
-		"inputAbbreviatedPath": "\/garagesale\/img\/curtains.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/curtains.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/desk.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 771385,
-		"inputAbbreviatedPath": "\/garagesale\/img\/desk.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/desk.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/desk2.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 766817,
-		"inputAbbreviatedPath": "\/garagesale\/img\/desk2.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/desk2.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/desk3.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 881340,
-		"inputAbbreviatedPath": "\/garagesale\/img\/desk3.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/desk3.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/dresser.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.14599e+06,
-		"inputAbbreviatedPath": "\/garagesale\/img\/dresser.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/dresser.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/endtable.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.19103e+06,
-		"inputAbbreviatedPath": "\/garagesale\/img\/endtable.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/endtable.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/filing cabinet.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.05796e+06,
-		"inputAbbreviatedPath": "\/garagesale\/img\/filing cabinet.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/filing cabinet.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/mirror.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 840838,
-		"inputAbbreviatedPath": "\/garagesale\/img\/mirror.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/mirror.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/shelves.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 759124,
-		"inputAbbreviatedPath": "\/garagesale\/img\/shelves.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/shelves.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/table.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 956044,
-		"inputAbbreviatedPath": "\/garagesale\/img\/table.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/table.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/table2.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 918175,
-		"inputAbbreviatedPath": "\/garagesale\/img\/table2.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/table2.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/img\/tv.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 995633,
-		"inputAbbreviatedPath": "\/garagesale\/img\/tv.JPG",
-		"outputAbbreviatedPath": "\/garagesale\/img\/tv.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/garagesale\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/garagesale\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/images\/header.png": {
 		"fileType": 32768,
@@ -3174,16 +2354,8 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"no_nested_string_interpolation": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"no_plusplus": {
 			"active": 0,
-			"flagValue": -1
-			},
-		"no_private_function_fat_arrows": {
-			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
@@ -3192,10 +2364,6 @@
 			},
 		"no_tabs": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"no_this": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {
@@ -3712,9 +2880,7 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
-	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
-	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,

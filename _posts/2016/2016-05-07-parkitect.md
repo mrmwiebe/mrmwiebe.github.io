@@ -12,9 +12,9 @@ Watch all 3 silly mini-trailers I helped produce for this Rollercoaster Tycoon 1
 
 ### Credits  
 
-_Trailer/Concept_ - Marlon Wiebe
-_Art/Game_ - [Texel Raptor](https://texel-raptor.itch.io)
-_Audio by_ - [A Shell in the Pit](http://www.ashellinthepit.com)
+_Trailer/Concept_ - Marlon Wiebe  
+_Art/Game_ - [Texel Raptor](https://texel-raptor.itch.io)  
+_Audio by_ - [A Shell in the Pit](http://www.ashellinthepit.com)  
 
 ### Making Of  
 
