@@ -2,7 +2,7 @@
 layout:     post
 title:      Parkitect
 date:       2016-05-07
-categories: featured-video video
+categories: video
 embed:      https://www.youtube.com/embed/rbohJtVLdR4
 videoimg:   http://img.youtube.com/vi/rbohJtVLdR4/maxresdefault.jpg
 type:       Game Trailer
