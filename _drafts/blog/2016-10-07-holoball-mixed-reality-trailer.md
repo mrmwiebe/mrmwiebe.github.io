@@ -2,9 +2,9 @@
 layout:     post
 title:      Quote
 date:       2016-09-14
-categories: video
+categories: featured-video video
 embed:      https://www.youtube.com/embed/YymBSciRCac
-videoimg:   /images/posts/2016/orwell.png
+videoimg:   /images/posts/2016/quote.jpg
 type:       Game Trailer
 ---
 
