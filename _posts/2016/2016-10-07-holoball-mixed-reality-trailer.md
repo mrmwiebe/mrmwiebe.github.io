@@ -14,6 +14,7 @@ Use your wits and your paddles to win against a rogue AI in order to win your fr
 _Editing/Direction_ - Marlon Wiebe  
 _Art/Game_ - [Treefortress Games](treefortress.com)  
 _Music by_ - [Dance of the Dead][0b32b55b]  
+_Actor_ - [Mack Vargas](http://mackvargas.com)
 
 ### Making Of Preamble  
 
@@ -27,13 +28,19 @@ Making the Holoball trailer was new territory for me as it was my first mixed re
 
 #### Camera Offset Woes
 
-Still, it took a ton of communication with Shawn from TreeFortress and custom code and fine tuning in order to get it right.  For example, you must tell the game you're working with how far the controller is offset to the camera so that they'll be matched when you edit them together.  [This technique](http://northwaygames.com/how-to-mixed-reality/) pioneered by Colin Northway and custom built in Fantastic Contraption, has you grabbing and moving a floating eye in VR to where the camera is, which makes it very easy to get a quick approximation of what the offset is.  
+Still, it took a ton of communication with Shawn from TreeFortress and custom code and fine tuning in order to get it right.  For example, you must tell the game you're working with how far the controller is offset to the camera so that they'll be matched when you edit them together.
+
+![Holoball Camera Rig]({{ site.baseurl }}/images/posts/2016/Holoball-Camera Rig.JPG){: .col-12 }
+_This was the rig I used for the shoot._{: .image-comment }
 
 [Valve's mixed reality solution](https://steamcommunity.com/app/358720/discussions/0/405694031549662100/) has is a script that you have to edit and type in the offset manually and reboot the game each time.  This was a HUGE pain in the ass and it would take hours just to try and match the in-game camera with the real camera.  
 
 Shawn came up with a nice solution to this, and added a small script to his game that would detect changes to Valve's script in real time, so I could at least make changes and see if things matched in real-time.  You can check out how he implemented this [on this forum post](https://steamcommunity.com/app/358720/discussions/0/405694031549662100/?ctp=13#c352792037311375886).
 
 The one pro to Valve's solution is that once you figure out the offsets for the rig in that file, as long as you don't move the controller in relation to the camera or use a different lens, you never have to change it again.
+
+![Holoball Green Screen]({{ site.baseurl }}/images/posts/2016/Holoball-Green Screen.JPG){: .col-12 }
+_This was my green screen set up for the shoot.  Not ideal, but thanks to keying software being so good, it did the trick!_{: .image-comment }
 
 #### The PSVR Conundrum
 
@@ -49,6 +56,6 @@ _IK Avatar._{: .image-comment }
 
 #### Conculsion
 
-Mixed reality is a very challenging way to make a trailer due to the amount of equipment and resources you need in order to make it look good, and even after you've shot the footage, it often doesn't line up properly or something glitched out but you don't know until you've brought it all into After Effects and put it together.  
+Overall, it was a huge learning curve and I'm pleased with the results, but making mixed reality this way is a very challenging way to make a trailer due to the amount of equipment and resources you need in order to make it look good, and even after you've shot the footage, it often doesn't line up properly or something glitched out but you don't know until you've brought it all into After Effects and put it together.
 
-[0b32b55b]: powerupaudio.com "Power Up Audio"
+However, people like Owlchemy Labs is [making some very interesting tools](http://owlchemylabs.com/owlchemyvr-mixed-reality-update-2/) for mixed reality that will hopefully simplify the process further.  Looking forward to seeing what comes of that!
