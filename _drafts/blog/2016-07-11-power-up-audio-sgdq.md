@@ -1,20 +1,19 @@
 ---
 layout:     post
-title:      Duskers Launch Trailer
+title:      Power Up Audio Graphics Package
 date:       2016-05-20
-categories: featured-video video
+categories: video
 embed:      https://www.youtube.com/embed/dux33m_7M6w
 videoimg:   /images/posts/2015/duskers-thumbnail.png
-type:       Game Trailer
+type:       Graphics Package
 ---
 
-Pilot your drones through derelict spaceships in Misfit Attic's hyper-atmospheric Duskers.
+Power Up Audio commissioned me to make a punchy graphics package for their advertising campaign during AGDQ
 
 ### Credits  
 
-_Edit/Animation/Audio_ - Marlon Wiebe  
-_Game/Concept_ - [Misfits Attic](https://misfits-attic.com)  
-_Voice Over_ - [David Autovino](https://www.voices.com/people/davidautovino)  
+_Graphics_ - Marlon Wiebe  
+_Edit/Audio_ - [Kevin Regamy/Power Up Audio](https://misfits-attic.com)  
 
 ### Making Of  
 
