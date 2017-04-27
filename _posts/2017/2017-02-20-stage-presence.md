@@ -2,7 +2,7 @@
 layout:     post
 title:      Stage Presence
 date:       2017-02-20
-categories: video
+categories: 
 embed:      https://www.youtube.com/embed/8i7wFvK4uHk
 videoimg:   /images/posts/2017/StagePresence-thumb.jpg
 type:       Game Trailer
