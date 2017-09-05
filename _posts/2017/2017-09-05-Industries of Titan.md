@@ -34,6 +34,6 @@ One thing that I didn't know about Unreal is that the Cinematics engine has a de
 ![Sample of the UI that I animated over the in-game render.]({{ site.baseurl }}/images/posts/2017/industries-ui.gif){: .col-12 }
 _Sample of the UI that I animated over the in-game render._{: .image-comment }
 
-Once the basic shots were laid out, the art team could get to work and polish things up where needed, and they did an amazing job! Joey at Power Up Audio then worked his audio editing magic by adding atmospheric sound effects and put in the incredibly well cast voice actors (Owen Thomas, Rhona Rees, Jason Simpson, Adam Harrington, Elspeth Eastman) which, when combined with Danny's awesome track, really made the trailer start feeling like the city is alive. :D
+Once the basic shots were laid out, the art team could get to work and polish the in-engine things where needed, and they did an amazing job! Joey at Power Up Audio then worked his audio editing magic by adding atmospheric sound effects and put in the incredibly well cast voice actors (Owen Thomas, Rhona Rees, Jason Simpson, Adam Harrington, Elspeth Eastman) which, when combined with Danny's awesome track, really made the trailer start feeling like the city is alive. :D
 
 Happy to be small part in this incredible team and excited to see where this project goes!  It's already [up on Steam](http://store.steampowered.com/app/427940/Industries_of_Titan/) so go and wishlist it there. :)
