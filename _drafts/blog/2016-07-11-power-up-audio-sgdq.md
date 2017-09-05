@@ -14,7 +14,3 @@ Power Up Audio commissioned me to make a punchy graphics package for their adver
 
 _Graphics_ - Marlon Wiebe  
 _Edit/Audio_ - [Kevin Regamy/Power Up Audio](https://misfits-attic.com)  
-
-### Making Of  
-
-Duskers was a particularily tricky trailer to get just right and from the very start, I knew that it was going to be all in the audio edit so for this one I flexed my audio editing muscles.

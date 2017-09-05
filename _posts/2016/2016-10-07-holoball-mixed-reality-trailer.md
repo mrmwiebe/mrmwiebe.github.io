@@ -12,7 +12,7 @@ Use your wits and your paddles to win against a rogue AI in order to win your fr
 
 ### Credits  
 _Editing/Direction_ - Marlon Wiebe  
-_Art/Game_ - [Treefortress Games](treefortress.com)  
+_Art/Game_ - [Treefortress Games](http://treefortress.com)  
 _Music by_ - [Dance of the Dead][0b32b55b]  
 _Actor_ - [Mack Vargas](http://mackvargas.com)
 
@@ -59,3 +59,5 @@ _IK Avatar._{: .image-comment }
 Overall, it was a huge learning curve and I'm pleased with the results, but making mixed reality this way is a very challenging way to make a trailer due to the amount of equipment and resources you need in order to make it look good, and even after you've shot the footage, it often doesn't line up properly or something glitched out but you don't know until you've brought it all into After Effects and put it together.
 
 However, people like Owlchemy Labs is [making some very interesting tools](http://owlchemylabs.com/owlchemyvr-mixed-reality-update-2/) for mixed reality that will hopefully simplify the process further.  Looking forward to seeing what comes of that!
+
+  [0b32b55b]: https://dancewiththedead.bandcamp.com/ "Dance with the Dead Bandcamp"
