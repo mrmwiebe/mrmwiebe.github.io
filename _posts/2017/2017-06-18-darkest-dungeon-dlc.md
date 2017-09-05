@@ -16,3 +16,8 @@ _Animation/Edit_ - Marlon Wiebe
 _Art/Direction_ - Chris Bourassa  
 _Audio_ - [Power Up Audio](http://powerupaudio.com)  
 _Game_ - [Red Hook Studios](http://redhookstudios.com)  
+
+
+### Making Of
+
+Will be posting more about this soon!
