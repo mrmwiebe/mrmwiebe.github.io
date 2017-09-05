@@ -4,7 +4,7 @@ title:      Into the Breach Announcement Trailer
 date:       2017-02-20
 categories: featured-video video
 embed:      https://player.vimeo.com/video/203014674
-videoimg:   /images/posts/2017/IntoTheBreach-icon.png
+videoimg:   /images/posts/2017/IntoTheBreach.jpg
 type:       Game Trailer
 ---
 
