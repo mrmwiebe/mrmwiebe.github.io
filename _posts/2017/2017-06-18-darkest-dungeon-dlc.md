@@ -2,7 +2,7 @@
 layout:     post
 title:      Darkest Dungeon DLC
 date:       2017-06-18
-categories: video
+categories: homepage-video video
 embed:      https://www.youtube.com/watch?v=iCJ6UNvEG94
 videoimg:   http://img.youtube.com/vi/iCJ6UNvEG94/maxresdefault.jpg
 type:       Trailer & Cutscenes
