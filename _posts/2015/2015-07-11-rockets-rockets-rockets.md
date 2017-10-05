@@ -11,7 +11,7 @@ type:       Game Trailer
 Radial Games' multiplayer shoot-em-up has you flying Rockets that shoot Rockets at other Rockets.
 
 
-###Credits
+### Credits
 _Game by_ - Radial Games  
 _Trailer by_ - Marlon Wiebe  
 _Music by_ - Ben Lam  
@@ -19,7 +19,7 @@ _Audio by_ - Power Up Audio
 _Actors_ - Allan Lavell, Kailey Mander  
 _Production Assitance_ - Connor Bell
 
-###Making Of
+### Making Of
 
 This one was super fun.  When I was first talking with Andy Moore about the trailer, he suggested having two people playing the game as the main attraction of the game is sitting next to a friend.  
 
@@ -37,7 +37,7 @@ _I filmed Allan jumping into my couch, then composited him in the scene with Kai
 
 That's about it!  Hope you like it! :)
 
-###What I Used
+### What I Used
 
  - iPhone 6
  - FiLMiC Pro App for iPhone
