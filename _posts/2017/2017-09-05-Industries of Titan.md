@@ -2,7 +2,7 @@
 layout:     post
 title:      Industries of Titan
 date:       2017-09-05
-categories: featured-video video
+categories: homepage-video video
 embed:      https://www.youtube.com/embed/D7uuz0RW_z8
 videoimg:   /images/posts/2017/industries.jpg
 type:       Trailer
