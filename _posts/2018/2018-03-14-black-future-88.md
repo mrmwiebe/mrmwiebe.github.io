@@ -14,7 +14,7 @@ Black Future ‘88’s neon-lit retro-future style paints a dark alternate histo
 _Editing_ - Marlon Wiebe  
 _Intro Animation_ - [Mads Broni](http://bndl.tv/portfolio/madsbroni/)   
 _Game_ - [SuperScarySnakes](www.blackfuture88.com)  
-_Music_ - [Tremor Low](https://benprunty.bandcamp.com/)  
+_Music_ - [Tremor Low](https://soundcloud.com/tremorlow)  
 
 ### Making Of
 
