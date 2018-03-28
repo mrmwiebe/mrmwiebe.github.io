@@ -10,7 +10,7 @@ type:       Game Trailer
 
 Beat up bears in barrels wielding fish in this frenetic lane-based brawler by Slick Entertainment.
 
-###Credits
+### Credits
 _Editing/Animation_ - Marlon Wiebe  
 _Art/Game_ - [Slick Entertainment][c36b6593]  
 _Audio by_ - [Power Up Audio][0b32b55b]  

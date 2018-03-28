@@ -2,7 +2,7 @@
 layout:     post
 title:      Future Unfolding
 date:       2015-11-14
-categories: video
+categories: 
 embed:      https://www.youtube.com/embed/TaSHoqUFPNk
 videoimg:   /images/posts/2015/futureunfolding-thumbnail.png
 type:       Game Trailer

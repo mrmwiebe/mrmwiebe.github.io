@@ -10,10 +10,10 @@ type:       Game Trailer
 
 Uncover the mystery of a surreal alien world by glitching out your envrionment and exploring Metroid style.
 
-###Credits
+### Credits
 _Editing/Animation_ - Marlon Wiebe  
-_Game_ - [Thomas Happ Games][a00aac1e]
-_Marketing_ - [Dan Adelman][756fe3f9]
+_Game_ - [Thomas Happ Games][a00aac1e]  
+_Marketing_ - [Dan Adelman][756fe3f9]  
 
   [0b32b55b]: powerupaudio.com "Power Up Audio"
   [756fe3f9]: https://twitter.com/Dan_Adelman "Dan Adelman Twitter"

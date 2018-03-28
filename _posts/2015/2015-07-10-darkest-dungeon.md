@@ -10,7 +10,7 @@ type:       Game Trailer
 
 Assemble your team and uncover the Lovecraftian horrors that lurk beneath the Darkest Dungeon.  But beware, the sights seen below will forever affect your troops.
 
-###Credits
+### Credits
 _Trailer by_ - Marlon Wiebe  
 _Game by_ - Red Hook Studios  
 _Audio by_ - Power Up Audio  
