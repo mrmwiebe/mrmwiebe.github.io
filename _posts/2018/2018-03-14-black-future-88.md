@@ -15,6 +15,7 @@ _Editing_ - Marlon Wiebe
 _Intro Animation_ - [Mads Broni](http://bndl.tv/portfolio/madsbroni/)   
 _Game_ - [SuperScarySnakes](www.blackfuture88.com)  
 _Music_ - [Tremor Low](https://soundcloud.com/tremorlow)  
+_Publisher_ - [Good Shepherd Games](http://goodshepherd.games)  
 
 ### Making Of
 

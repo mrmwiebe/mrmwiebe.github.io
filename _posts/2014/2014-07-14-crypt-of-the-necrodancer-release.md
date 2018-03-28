@@ -13,4 +13,4 @@ The world's one and only roguelike rhythm game beats it's way into Early Access 
 ### Credits
 _Editing/Animation_ - Marlon Wiebe  
 _Art/Game_ - Brace Yourself Games  
-_Audio_ - Power Up Audio
+_Audio_ - Power Up Audio  
