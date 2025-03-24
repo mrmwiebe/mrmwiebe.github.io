@@ -6,19 +6,26 @@
     <description>Recent content in Categories on Marlon Wiebe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video</title>
+      <link>http://localhost:1313/categories/video/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/video/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Homepage-Video Video</title>
       <link>http://localhost:1313/categories/homepage-video-video/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/homepage-video-video/</guid>
       <description></description>
     </item>
     <item>
       <title>Featured-Video Video</title>
       <link>http://localhost:1313/categories/featured-video-video/</link>
-      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/featured-video-video/</guid>
       <description></description>
     </item>
@@ -27,20 +34,6 @@
       <link>http://localhost:1313/categories/blog-game/</link>
       <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/blog-game/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blog Webdev Code</title>
-      <link>http://localhost:1313/categories/blog-webdev-code/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/blog-webdev-code/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Video</title>
-      <link>http://localhost:1313/categories/video/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/video/</guid>
       <description></description>
     </item>
   </channel>
