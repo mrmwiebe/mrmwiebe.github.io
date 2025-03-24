@@ -1,19 +1,278 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Home on Marlon Wiebe</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content in Home on Marlon Wiebe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Mar 2025 13:04:58 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 11:12:25 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 16 Mar 2025 13:04:58 -0700</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <link>http://localhost:1313/thoughts/my-first-post/</link>
+      <pubDate>Wed, 19 Mar 2025 11:12:25 -0700</pubDate>
+      <guid>http://localhost:1313/thoughts/my-first-post/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Rift of the NecroDancer</title>
+      <link>http://localhost:1313/games/rift-of-the-necrodancer/</link>
+      <pubDate>Wed, 19 Mar 2025 11:12:25 -0700</pubDate>
+      <guid>http://localhost:1313/games/rift-of-the-necrodancer/</guid>
+      <description>&lt;p&gt;I was a game designer on Rift of the NecroDancer.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s more text about that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Black Future &#39;88</title>
+      <link>http://localhost:1313/trailers/black-future-88/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/black-future-88/</guid>
+      <description>&lt;p&gt;Black Future ‘88’s neon-lit retro-future style paints a dark alternate history of a world reeling from a nuclear cataclysm created by Duncan, the tower architect.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Intro Animation&lt;/em&gt; - &lt;a href=&#34;http://bndl.tv/portfolio/madsbroni/&#34;&gt;Mads Broni&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Game&lt;/em&gt; - &lt;a href=&#34;www.blackfuture88.com&#34;&gt;SuperScarySnakes&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Music&lt;/em&gt; - &lt;a href=&#34;https://soundcloud.com/tremorlow&#34;&gt;Tremor Low&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Publisher&lt;/em&gt; - &lt;a href=&#34;http://goodshepherd.games&#34;&gt;Good Shepherd Games&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;This game was just a joy to work on.  I love the aesthetic and music which makes it super easy to edit things to right away. :)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Into the Breach Launch</title>
+      <link>http://localhost:1313/trailers/into-the-breach-launch/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/into-the-breach-launch/</guid>
+      <description>&lt;p&gt;Control powerful mechs from the future to defeat an alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Game&lt;/em&gt; - &lt;a href=&#34;https://subsetgames.com&#34;&gt;Subset Games&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Music&lt;/em&gt; - &lt;a href=&#34;https://benprunty.bandcamp.com/&#34;&gt;Ben Prunty&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Audio by&lt;/em&gt; - &lt;a href=&#34;http://powerupaudio.com&#34;&gt;Power Up Audio&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Where The Water Tastes Like Wine</title>
+      <link>http://localhost:1313/trailers/where-the-water-tastes-like-wine/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/where-the-water-tastes-like-wine/</guid>
+      <description>&lt;p&gt;Where the Water Tastes Like Wine is a Narrative-Adventure game about traveling, sharing stories, and surviving manifest destiny.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Game&lt;/em&gt; - &lt;a href=&#34;http://www.wherethewatertasteslikewine.com/&#34;&gt;Dim Bulb Games&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Publisher&lt;/em&gt; - &lt;a href=&#34;http://www.goodshepherd.games&#34;&gt;Good Shepherd Games&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;other-trailers&#34;&gt;Other Trailers&lt;/h3&gt;&#xA;&lt;p&gt;The main trailer above was the latest trailer I had done for the &lt;a href=&#34;http://www.wherethewatertasteslikewine.com/&#34;&gt;Where the Water Tastes like Wine&lt;/a&gt; campaign.  It was involved a lot of animation work, experiementing with a stop-motion-y style, and I was pretty happy with the result.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Full Metal Furies</title>
+      <link>http://localhost:1313/trailers/full-metal-furies/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/full-metal-furies/</guid>
+      <description>&lt;p&gt;From the creators of Rogue Legacy comes a &amp;ldquo;true-cooperative&amp;rdquo; action RPG.  Full Metal Furies puts an emphasis on team play with a unique combat system where everyone is important.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Game&lt;/em&gt; - &lt;a href=&#34;http://cellardoorgames.com&#34;&gt;Cellar Door Games&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Audio/Music by&lt;/em&gt; - &lt;a href=&#34;http://ashellinthepit.com&#34;&gt;A Shell in the Pit&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Industries of Titan</title>
+      <link>http://localhost:1313/trailers/industries-of-titan/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/industries-of-titan/</guid>
+      <description>&lt;p&gt;My first attempt at working with 3D keyframed animations in-engine for this innovative sim-strategy game by the Crypt of the Necrodancer devs.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Art&lt;/em&gt; - &lt;a href=&#34;https://twitter.com/sir_carma&#34;&gt;Sir Carma&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/Gunn3D&#34;&gt;Nick Gunn&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Game by&lt;/em&gt; - &lt;a href=&#34;https://twitter.com/braceyourselfok&#34;&gt;Ryan Clark&lt;/a&gt;, &lt;a href=&#34;http://blog.braceyourselfgames.com/&#34;&gt;Brace Yourself Games&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Music&lt;/em&gt; - &lt;a href=&#34;https://twitter.com/dannyBstyle&#34;&gt;Danny Baranowsky&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Audio&lt;/em&gt; - Joey Goddard, &lt;a href=&#34;https://powerupaudio.com&#34;&gt;Power Up Audio&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Editing, UI, and In-Engine Camera Work&lt;/em&gt; - Marlon Wiebe&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;When I heard of Ryan&amp;rsquo;s secret new project, the script, basic layout, music by Danny B, had already been done for the trailer, but he wanted help with pacing and camera movement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Redeemer</title>
+      <link>http://localhost:1313/trailers/redeemer/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/redeemer/</guid>
+      <description>&lt;p&gt;Punch, hack, and blast your way through enemies using fists, hammers, fire arms, and even the environment.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Edit&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game/Concept&lt;/em&gt; - &lt;a href=&#34;https://http://redeemerthegame.com/&#34;&gt;Sobaka Studio&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Publisher&lt;/em&gt; - &lt;a href=&#34;https://goodshepherd.games&#34;&gt;Good Shepherd Entertainment&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;The folks at Good Shepherd hired an outside animation studio for the intro and I was tasked with showing how brutal and intense the action in this game is with the gameplay edit in the latter half of the video.  Needless to say, it was a blast to capture and edit. :)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Darkest Dungeon DLC</title>
+      <link>http://localhost:1313/trailers/darkest-dungeon-dlc/</link>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/darkest-dungeon-dlc/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s something in the blood in Darkest Dungeon&amp;rsquo;s DLC&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Animation/Edit&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Direction&lt;/em&gt; - Chris Bourassa&lt;br&gt;&#xA;&lt;em&gt;Audio&lt;/em&gt; - &lt;a href=&#34;http://powerupaudio.com&#34;&gt;Power Up Audio&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Game&lt;/em&gt; - &lt;a href=&#34;http://redhookstudios.com&#34;&gt;Red Hook Studios&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;Will be posting more about this soon!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brigador Up Armored Edition</title>
+      <link>http://localhost:1313/trailers/brigador/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/brigador/</guid>
+      <description>&lt;p&gt;Experience 100% destructible environments with 56 different playable vehicles in roguelite isometric mayhem. Great Leader is dead: liberate Solo Nobre tonight.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Trailer by&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game by&lt;/em&gt; - &lt;a href=&#34;http://stellarjockeys.com/&#34;&gt;Stellar Jockeys&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Immortal Redneck</title>
+      <link>http://localhost:1313/trailers/immortal-redneck/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/immortal-redneck/</guid>
+      <description>&lt;p&gt;Rogue Legacy meets an FPS in Egypt, with an unlikely hero.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Edit/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game/Tech&lt;/em&gt; - &lt;a href=&#34;https://www.youtube.com/watch?v=VGyvt1Vk5bs&#34;&gt;CremaGames&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;I knew when I was approached by the amazing folks at CremaGames that this was going to be a fun project.  Immortal Redneck is incredibly polished, has intense satisfying gameplay, and just looks amazing!  I knew that I just needed to keep things action packed and every shot should have some new content since there was just so much to work with.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Into the Breach Announcement Trailer</title>
+      <link>http://localhost:1313/trailers/into-the-breach/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/into-the-breach/</guid>
+      <description>&lt;p&gt;Use your mechs to defend the last cities on earth from being destroyed by giant monsters in this turn-based tactics game by the makers of FTL.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Edit&lt;/em&gt; - &lt;a href=&#34;http://mwiebe.com&#34;&gt;Marlon Wiebe&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Game&lt;/em&gt; - &lt;a href=&#34;http://ftlgame.com&#34;&gt;Subset Games&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Music&lt;/em&gt; - &lt;a href=&#34;https://benprunty.com&#34;&gt;Ben Prunty&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Audio&lt;/em&gt; - &lt;a href=&#34;http://powerupaudio.com&#34;&gt;Power Up Audio&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;Because of all the unique interactions between the environment and the characters in this game and the way they are shown in game, we knew that we wanted to let the game show off as much as possible and not try to overcomplicate the trailer.  I really wanted to avoid the trap of using too much text in a trailer, and that was possible as the devs made everything have great visual feedback to your actions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stage Presence</title>
+      <link>http://localhost:1313/trailers/stage-presence/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/stage-presence/</guid>
+      <description>&lt;p&gt;Your bands gear fries onstage and it&amp;rsquo;s up to you to keep the crowd from rioting in this free-form music game.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Edit/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game/Tech&lt;/em&gt; - Jon Dadley&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;Since Jon had rigged up an IK rig for the player&amp;rsquo;s in-game avatar, I knew I wanted to try and film everything inside game instead of doing mixed-reality.  This is something I&amp;rsquo;d done to a small extent with an alternate version of my previous VR trailer HoloBall, and also something the Kert Gartner had done to great effect in his Space Pirate Trainer trailer.  I was also excited about this idea because it&amp;rsquo;s SO MUCH EASIER OH MY GOD and still allows for tons of creativity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Holoball</title>
+      <link>http://localhost:1313/trailers/holoball-mixed-reality-trailer/</link>
+      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/holoball-mixed-reality-trailer/</guid>
+      <description>&lt;p&gt;Use your wits and your paddles to win against a rogue AI in order to win your freedom in this 80s inspired neon soaked VR raquetball game.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Direction&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Game&lt;/em&gt; - &lt;a href=&#34;http://treefortress.com&#34;&gt;Treefortress Games&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Music by&lt;/em&gt; - &lt;a href=&#34;https://dancewiththedead.bandcamp.com/&#34; title=&#34;Dance with the Dead Bandcamp&#34;&gt;Dance of the Dead&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Actor&lt;/em&gt; - &lt;a href=&#34;http://mackvargas.com&#34;&gt;Mack Vargas&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of-preamble&#34;&gt;Making Of Preamble&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;m not going to go in-depth into the details of how to make mixed-reality trailers, there are a ton of blog posts already about that.  Check out &lt;a href=&#34;http://www.kertgartner.com/making-mixed-reality-vr-trailers-and-videos/&#34;&gt;this one by Kert Gartner&lt;/a&gt;, this one &lt;a href=&#34;http://northwaygames.com/how-to-mixed-reality/&#34;&gt;by Colin Northway&lt;/a&gt;, and &lt;a href=&#34;https://steamcommunity.com/app/358720/discussions/0/405694031549662100/&#34;&gt;this Steam Community thread&lt;/a&gt; about mixed reality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quote</title>
+      <link>http://localhost:1313/trailers/vindit-quote-launch-trailer/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/vindit-quote-launch-trailer/</guid>
+      <description>&lt;p&gt;Burn every book.  Kill every author.  Purify the world for the God of Ignorance.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Animation/Edit&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Trailer Concept/Game&lt;/em&gt; - &lt;a href=&#34;https://twitter.com/robinlacey&#34;&gt;Robin Lacey&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://twitter.com/vinditco&#34;&gt;Vindit Co.&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Art&lt;/em&gt; - &lt;a href=&#34;evanlovejoy.com&#34; title=&#34;Evan Lovejoy&#34;&gt;Evan Lovejoy&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Audio&lt;/em&gt; - &lt;a href=&#34;http://www.tobeyevans.com&#34;&gt;Tobey Evans&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;I was immediately drawn to &lt;a href=&#34;evanlovejoy.com&#34; title=&#34;Evan Lovejoy&#34;&gt;Evan Lovejoy&amp;rsquo;s&lt;/a&gt; intricate and bizarre art style when I first saw screenshots for the game and I knew that this was going to be an incredible project.  When I got my hands on a build of the game, it was strange in all the right ways.  The combat was satisfying and there was polish and a level of care in this project that is rare.  It&amp;rsquo;s not hard to see that this is a passion project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Orwell</title>
+      <link>http://localhost:1313/trailers/orwell/</link>
+      <pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/orwell/</guid>
+      <description>&lt;p&gt;Papers, Please meets the NSA surveillance state in Orwell.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Animation/Edit/Audio&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Concept/Marketing&lt;/em&gt; - Drew Taylor (&lt;a href=&#34;http://www.surpriseattackgames.com&#34;&gt;Surprise Attack Games&lt;/a&gt;)&lt;br&gt;&#xA;&lt;em&gt;Game/Art&lt;/em&gt; - &lt;a href=&#34;http://www.osmotic-studios.de&#34;&gt;Osmotic Studios&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;When Drew Taylor from &lt;a href=&#34;http://www.surpriseattackgames.com&#34;&gt;Surprise Attack Games&lt;/a&gt; sent me a copy of Orwell, I was immediately intrigued.  Think of it as Papers, Please gameplay where you are playing an NSA-esque surveillance state by harvesting information from publicly posted websites online.  It&amp;rsquo;s unsettlingly accurate and nails the mood perfectly.  The concept for the trailer was ambitious and breaks my usual rule that trailers shouldn&amp;rsquo;t be longer than a minute, but rules are made to be broken!  Especially for trippy endings like this one. :)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Duskers Launch Trailer</title>
+      <link>http://localhost:1313/trailers/duskers-launch-trailer/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/duskers-launch-trailer/</guid>
+      <description>&lt;p&gt;Pilot your drones through derelict spaceships in Misfit Attic&amp;rsquo;s hyper-atmospheric Duskers.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Edit/Animation/Audio&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game/Concept&lt;/em&gt; - &lt;a href=&#34;https://misfits-attic.com&#34;&gt;Misfits Attic&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Voice Over&lt;/em&gt; - &lt;a href=&#34;https://www.voices.com/people/davidautovino&#34;&gt;David Autovino&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;Duskers was a particularily tricky trailer to get just right and from the very start, I knew that it was going to be all in the audio edit so for this one I flexed my audio editing muscles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parkitect</title>
+      <link>http://localhost:1313/trailers/parkitect/</link>
+      <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/parkitect/</guid>
+      <description>&lt;p&gt;Watch all 3 silly mini-trailers I helped produce for this Rollercoaster Tycoon 1&amp;amp;2 spiritual successor!&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Trailer/Concept&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Game&lt;/em&gt; - &lt;a href=&#34;https://texel-raptor.itch.io&#34;&gt;Texel Raptor&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Audio by&lt;/em&gt; - &lt;a href=&#34;http://www.ashellinthepit.com&#34;&gt;A Shell in the Pit&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;The guys at &lt;a href=&#34;https://texel-raptor.itch.io&#34;&gt;Texel Raptor&lt;/a&gt;, Garret, Sebastian, and Gordon, are the best people to work with.  It seemed like every crazy idea that I had they went for.  Even when I suggested that we make 3 mini-trailers they were like, &amp;ldquo;yeah that sounds good.&amp;rdquo;  So, that&amp;rsquo;s what we made.  3 x 30 second(ish) mini-trailers each with their own theme and showing off different aspects of the game.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NecroDancer Plushie Commercial</title>
+      <link>http://localhost:1313/trailers/necrodancer-plushie-commercial/</link>
+      <pubDate>Sun, 28 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/necrodancer-plushie-commercial/</guid>
+      <description>&lt;p&gt;Own a physical singing version of the merchant from Crypt of the Necrodancer!&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing &amp;amp; Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game&lt;/em&gt; - &lt;a href=&#34;http://braceyourselfgames.com&#34; title=&#34;Brace Yourself Games&#34;&gt;Brace Yourself Games&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Music &amp;amp; Idea&lt;/em&gt; - &lt;a href=&#34;https://dbsoundworks.bandcamp.com&#34; title=&#34;Danny Baranowsky on Bandcamp&#34;&gt;Danny Baranowsky&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Pixel Art&lt;/em&gt; - &lt;a href=&#34;https://twitter.com/ted_martens&#34; title=&#34;Ted Martens on Twitter&#34;&gt;Ted Martens&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Audio&lt;/em&gt; - &lt;a href=&#34;powerupaudio.com&#34; title=&#34;Power Up Audio&#34;&gt;Power Up Audio&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;A while back Danny had been fantasizing over Skype that he&amp;rsquo;d love to see an ad for &lt;a href=&#34;https://dbsoundworks.bandcamp.com/album/crypt-of-the-necrodancer-ost&#34; title=&#34;NecroDancer OST&#34;&gt;his fantastic soundtrack&lt;/a&gt; for Crypt of the Necrodancer that was a parody of those typical 80&amp;rsquo;s K-Tel commercials for best of CD compilations.  Such as the one below:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Maek Project</title>
+      <link>http://localhost:1313/trailers/maek-project/</link>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/maek-project/</guid>
+      <description>&lt;p&gt;I took part in the Global Game Jam 2016 and hung out with a bunch of awesome artists and game devs for 48 hours and made a rough, but functional game called &amp;ldquo;Maek Project&amp;rdquo;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;making-of&#34;&gt;Making Of&lt;/h2&gt;&#xA;&lt;p&gt;Since the theme was Ritual, I wanted to make a WarioWare-esque game that looked at the daily ritual of trying to complete a project that keeps getting interrupted by real life responsibilities.&lt;/p&gt;&#xA;&lt;p&gt;![Whiteboard]({{ site.baseurl }}/images/posts/2016/maekgame-whiteboard.png){: .col-12 }&#xA;&lt;em&gt;Here&amp;rsquo;s the whiteboard idea I came up with initially.&lt;/em&gt;{: .image-comment }&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zombie Night Terror</title>
+      <link>http://localhost:1313/trailers/zombie-night-terror/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/zombie-night-terror/</guid>
+      <description>&lt;p&gt;A lemmings-like game teeming with hordes of zombies aiming to destroy humanity.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Edit/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game/Art&lt;/em&gt; - &lt;a href=&#34;http://zombienightterror.com&#34;&gt;NoClip&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Publisher&lt;/em&gt; - &lt;a href=&#34;http://goodshepherd.games&#34;&gt;Gambitious (now Good Shepherd Entertainment)&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Darkest Dungeon Launch</title>
+      <link>http://localhost:1313/trailers/darkest-dungeon-2/</link>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/darkest-dungeon-2/</guid>
+      <description>&lt;p&gt;The critically acclaimed stress management RPG Darkest Dungeon finally comes out of Early Access!&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Trailer by&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game by&lt;/em&gt; - &lt;a href=&#34;darkestdungeon.com&#34; title=&#34;Red Hook Studios&#34;&gt;Red Hook Studios&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Audio by&lt;/em&gt; - &lt;a href=&#34;powerupaudio.com&#34; title=&#34;Power Up Audio Website&#34;&gt;Power Up Audio&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Narration by&lt;/em&gt; - &lt;a href=&#34;darkestdungeon.com&#34; title=&#34;Red Hook Studios&#34;&gt;Wayne June&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Music by&lt;/em&gt; - &lt;a href=&#34;https://www.facebook.com/Stuart.Chatwood.Official&#34; title=&#34;Stuart Chatwood&#39;s Facebook Page&#34;&gt;Stuart Chatwood&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;I teamed up with the amazing folks at &lt;a href=&#34;darkestdungeon.com&#34; title=&#34;Red Hook Studios&#34;&gt;Red Hook Studios&lt;/a&gt; and the audio experts at &lt;a href=&#34;powerupaudio.com&#34; title=&#34;Power Up Audio Website&#34;&gt;Power Up Audio&lt;/a&gt; to craft this intense launch trailer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ionic Video Link</title>
+      <link>http://localhost:1313/trailers/ionic-video-link/</link>
+      <pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/ionic-video-link/</guid>
+      <description>&lt;p&gt;Before making trailers fulltime, I made HTML things.  One of these things is a special video tag for the speedy hybrid app framework called &lt;a href=&#34;getsoundmind.com&#34;&gt;Ionic&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I was making an app for a company in Winnipeg called &lt;a href=&#34;ionicframework.com&#34;&gt;Soundmind Health Technologies&lt;/a&gt;.  In this particular app, I needed to be able to show a list of videos and when they were clicked, smoothly animate and fade into the video and have them start automatically.&lt;/p&gt;&#xA;&lt;p&gt;So, I thought that this would be the best time to try out one of &lt;a href=&#34;https://docs.angularjs.org/guide/directive&#34; title=&#34;Angular Directives&#34;&gt;Angular&amp;rsquo;s directives&lt;/a&gt;, which basically lets you make up your own HTML tags and wrap them with custom javascript and behaviors.  Very cool, but can be tricky to get your mind around how it all works.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monsters and Monocles PSX Announcement</title>
+      <link>http://localhost:1313/trailers/monsters-and-monocles/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/monsters-and-monocles/</guid>
+      <description>&lt;p&gt;Monsters and Monocles is a tale of comrades, ballistics &amp;amp; high tea.  This co-op twin stick shooter has style for days!&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Trailer by&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game by&lt;/em&gt; - &lt;a href=&#34;http://retrodreamer.com&#34; title=&#34;Retro Dreamer Website&#34;&gt;Retro Dreamer&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Audio by&lt;/em&gt; - &lt;a href=&#34;http://hyperduck.co.uk/&#34; title=&#34;Hyperduck Soundworks Webpage&#34;&gt;Hyperduck Soundworks&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;In order to capture the frenetic multiplayer action of a four player Monster and Monocles session, I brought my computer to the local &lt;a href=&#34;https://hgcgamejams.wordpress.com/&#34; title=&#34;Halifax Game Collective Website&#34;&gt;Halifax Game Collective&lt;/a&gt; meetup and enlisted the help of some very willing volunteers to play the game while I recorded the session.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Severed PSX 2015</title>
+      <link>http://localhost:1313/trailers/severed-psx/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/severed-psx/</guid>
+      <description>&lt;p&gt;The hyper stylized dungeon crawling slash-em-up from the studio that brought you Guacamelee!&lt;/p&gt;&#xA;&lt;p&gt;Take control of a one-armed heroine named Sasha, wielding a living sword on her journey through a nightmarish world in search of her family.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Concept by&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game by&lt;/em&gt; - &lt;a href=&#34;drinkboxstudios.com&#34; title=&#34;Drinkbox Studios Homepage&#34;&gt;Drinkbox Studios&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Music by&lt;/em&gt; - YAMANTAKA // SONIC TITAN and PANTAYO&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;After working with the guys at &lt;a href=&#34;drinkboxstudios.com&#34; title=&#34;Drinkbox Studios Homepage&#34;&gt;Drinkbox Studios&lt;/a&gt; on the &lt;a href=&#34;http://localhost:4000/blog/posts/severed/&#34;&gt;previous trailer&lt;/a&gt;, they came back to me with a few things that people didn&amp;rsquo;t realize about the game after watching the trailer then playing the demo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Starsector</title>
+      <link>http://localhost:1313/trailers/starsector/</link>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/starsector/</guid>
+      <description>&lt;p&gt;Build up your fleet, micro manage your ships, and engage in epic galactic battles in Starsector!&lt;/p&gt;&#xA;&lt;p&gt;###Credits&#xA;&lt;em&gt;Editing/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Game&lt;/em&gt; - &lt;a href=&#34;http://fractalsoftworks.com/&#34; title=&#34;Fractal Softworks Website&#34;&gt;Fractal Softworks&lt;/a&gt;&#xA;&lt;em&gt;Audio by&lt;/em&gt; - &lt;a href=&#34;http://stianstark.com/&#34; title=&#34;Stian Stark&#39;s Website&#34;&gt;Stian Stark&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Future Unfolding</title>
+      <link>http://localhost:1313/trailers/future-unfolding/</link>
+      <pubDate>Sat, 14 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/future-unfolding/</guid>
+      <description>&lt;p&gt;Explore the lush, procedurally generated world of Future Unfolding, the new game from Spaces of Play, the creators of the hit game Spirits.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Game&lt;/em&gt; - &lt;a href=&#34;http://www.spacesofplay.com/&#34; title=&#34;Spaces of Play Website&#34;&gt;Spaces of Play&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lovers in a Dangerous Spacetime</title>
+      <link>http://localhost:1313/trailers/lovers-in-a-dangerous-spacetime/</link>
+      <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/lovers-in-a-dangerous-spacetime/</guid>
+      <description>&lt;p&gt;ALERT!  ALERT!  Lovers HQ has been destroyed by Anti-Love!  You and a friend must work together to defeat evil and restore love in this intense co-op game.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Game&lt;/em&gt; - &lt;a href=&#34;asteroidbase.com&#34; title=&#34;Asteroid Base&#34;&gt;Asteroid Base&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Additional Character Animation&lt;/em&gt; - &lt;a href=&#34;http://www.matthammill.com/&#34; title=&#34;Matt Hammill&#34;&gt;Matt Hammill&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;It was such an honour to work with Asteroid Base on this game.  I&amp;rsquo;ve been a fan of &lt;a href=&#34;http://www.matthammill.com/&#34; title=&#34;Matt Hammill&#34;&gt;Matt Hammill&amp;rsquo;s&lt;/a&gt; work previous to LIADS, games like the graphical text adventure &lt;a href=&#34;http://www.matthammill.com/games/guilded-youth/&#34; title=&#34;Gilded Youth&#34;&gt;Gilded Youth&lt;/a&gt; and sneeze-and-sneak-em-up &lt;a href=&#34;http://www.matthammill.com/games/gesundheit/&#34; title=&#34;Gesundheit!&#34;&gt;Gesundheit!&lt;/a&gt; are fanastic games and they just ooze atmosphere.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fuego!</title>
+      <link>http://localhost:1313/trailers/fuego-launch-trailer/</link>
+      <pubDate>Sun, 30 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/fuego-launch-trailer/</guid>
+      <description>&lt;p&gt;An online simultaneous turn-based Mexican standoff game that gets it right.  Play against friends online or go solo in puzzle mode.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game&lt;/em&gt; - &lt;a href=&#34;http://radiostatic.co/&#34; title=&#34;Radiostatic Website&#34;&gt;Radiostatic Inc.&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Art&lt;/em&gt; - &lt;a href=&#34;http://jonathanstroh.com/&#34; title=&#34;Jonathan Stroh&#34;&gt;Jonathan Stroh&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Audio by&lt;/em&gt; - &lt;a href=&#34;ashellinthepit.com&#34; title=&#34;A Shell in the Pit Homepage&#34;&gt;A Shell in the Pit&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;Fuego is a really tough game to show off in a minute of gameplay.  At it&amp;rsquo;s core, it&amp;rsquo;s a turn-based game where both players are placing characters at the same time then watching how the standoff unfolds.  To introduce this concept to the player, the guys at Radiostatic suggested a pan down of a battlefield with slowly increasing intensity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cryptark</title>
+      <link>http://localhost:1313/trailers/cryptark/</link>
+      <pubDate>Fri, 07 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/cryptark/</guid>
+      <description>&lt;p&gt;Derelict spaceships are floating through the galaxy ready to be stripped of scrap.  But it won&amp;rsquo;t be easy.  You need to plan your assault, choose your weapons wisely, and don&amp;rsquo;t waste your ammo!  It ain&amp;rsquo;t cheap.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Animation/Concept&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Game&lt;/em&gt; - Alien Trap Games&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;When I first played this game thinking about how to structure the trailer, it was immediately obvious to me that taking on one of these derelicts is akin to the heist in a heist movie.  So why not structure it like one?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Duskers Early Access</title>
+      <link>http://localhost:1313/trailers/duskers/</link>
+      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/duskers/</guid>
+      <description>&lt;p&gt;Survive in space by sending your drones into derelict spaceships and scavenging what you can.  But be careful, one false step could mean your drones are gone for good.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing by&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game &amp;amp; Concept by&lt;/em&gt; - &lt;a href=&#34;http://misfits-attic.com&#34; title=&#34;Misfits Attic Homepage&#34;&gt;Misfits Attic&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;When Tim approached me with his game, I loved that the command console was a big part of the game.  He asked if we could try to make a trailer that was entirely in the console, showing commands being typed, alerts going off, and the player scrambling to avert disaster.  I loved the idea, and Tim even made an animatic of it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ROCKETS ROCKETS ROCKETS</title>
+      <link>http://localhost:1313/trailers/rockets-rockets-rockets/</link>
+      <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/rockets-rockets-rockets/</guid>
+      <description>&lt;p&gt;Radial Games&amp;rsquo; multiplayer shoot-em-up has you flying Rockets that shoot Rockets at other Rockets.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Game by&lt;/em&gt; - Radial Games&lt;br&gt;&#xA;&lt;em&gt;Trailer by&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Music by&lt;/em&gt; - Ben Lam&lt;br&gt;&#xA;&lt;em&gt;Audio by&lt;/em&gt; - Power Up Audio&lt;br&gt;&#xA;&lt;em&gt;Actors&lt;/em&gt; - Allan Lavell, Kailey Mander&lt;br&gt;&#xA;&lt;em&gt;Production Assitance&lt;/em&gt; - Connor Bell&lt;/p&gt;&#xA;&lt;h3 id=&#34;making-of&#34;&gt;Making Of&lt;/h3&gt;&#xA;&lt;p&gt;This one was super fun.  When I was first talking with Andy Moore about the trailer, he suggested having two people playing the game as the main attraction of the game is sitting next to a friend.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Darkest Dungeon</title>
+      <link>http://localhost:1313/trailers/darkest-dungeon/</link>
+      <pubDate>Fri, 10 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/darkest-dungeon/</guid>
+      <description>&lt;p&gt;Assemble your team and uncover the Lovecraftian horrors that lurk beneath the Darkest Dungeon.  But beware, the sights seen below will forever affect your troops.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Trailer by&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game by&lt;/em&gt; - Red Hook Studios&lt;br&gt;&#xA;&lt;em&gt;Audio by&lt;/em&gt; - Power Up Audio&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Axiom Verge</title>
+      <link>http://localhost:1313/trailers/axiom-verge/</link>
+      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/axiom-verge/</guid>
+      <description>&lt;p&gt;Uncover the mystery of a surreal alien world by glitching out your envrionment and exploring Metroid style.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game&lt;/em&gt; - &lt;a href=&#34;http://www.thomashapp.com&#34; title=&#34;Thomas Happ Games Webpage&#34;&gt;Thomas Happ Games&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Marketing&lt;/em&gt; - &lt;a href=&#34;https://twitter.com/Dan_Adelman&#34; title=&#34;Dan Adelman Twitter&#34;&gt;Dan Adelman&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Severed</title>
+      <link>http://localhost:1313/trailers/severed/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/severed/</guid>
+      <description>&lt;p&gt;Stylish touchscreen slash-em-up action game by the studio that brought you Guacamelee.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Game by&lt;/em&gt; - &lt;a href=&#34;http://severedgame.com/&#34; title=&#34;Severed Game&#34;&gt;Drinkbox Games&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Trailer by&lt;/em&gt; - Marlon Wiebe&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crypt of the Necrodancer</title>
+      <link>http://localhost:1313/trailers/crypt-of-the-necrodancer-release/</link>
+      <pubDate>Mon, 14 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/crypt-of-the-necrodancer-release/</guid>
+      <description>&lt;p&gt;The world&amp;rsquo;s one and only roguelike rhythm game beats it&amp;rsquo;s way into Early Access and into your heart.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Game&lt;/em&gt; - Brace Yourself Games&lt;br&gt;&#xA;&lt;em&gt;Audio&lt;/em&gt; - Power Up Audio&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Viking Squad</title>
+      <link>http://localhost:1313/trailers/viking-squad/</link>
+      <pubDate>Sat, 12 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/viking-squad/</guid>
+      <description>&lt;p&gt;Beat up bears in barrels wielding fish in this frenetic lane-based brawler by Slick Entertainment.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Art/Game&lt;/em&gt; - &lt;a href=&#34;slickentertainment.com&#34; title=&#34;Slick Entertainment&#34;&gt;Slick Entertainment&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Audio by&lt;/em&gt; - &lt;a href=&#34;powerupaudio.com&#34; title=&#34;Power Up Audio&#34;&gt;Power Up Audio&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FTL - Advanced Edition</title>
+      <link>http://localhost:1313/trailers/ftl-advanced-edition/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trailers/ftl-advanced-edition/</guid>
+      <description>&lt;p&gt;A free update to the popular FTL game adds new game modes and a new alien species.&lt;/p&gt;&#xA;&lt;h3 id=&#34;credits&#34;&gt;Credits&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Editing/Animation&lt;/em&gt; - Marlon Wiebe&lt;br&gt;&#xA;&lt;em&gt;Game&lt;/em&gt; - Subset Games&lt;br&gt;&#xA;&lt;em&gt;Art&lt;/em&gt; - Benjamin Sawyer&lt;br&gt;&#xA;&lt;em&gt;Music&lt;/em&gt; - Ben Prunty&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

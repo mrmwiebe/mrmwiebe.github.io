@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Marlon Wiebe</title>
+    <link>http://localhost:1313/games/</link>
+    <description>Recent content in Games on Marlon Wiebe</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Mar 2025 11:12:25 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rift of the NecroDancer</title>
+      <link>http://localhost:1313/games/rift-of-the-necrodancer/</link>
+      <pubDate>Wed, 19 Mar 2025 11:12:25 -0700</pubDate>
+      <guid>http://localhost:1313/games/rift-of-the-necrodancer/</guid>
+      <description>&lt;p&gt;I was a game designer on Rift of the NecroDancer.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s more text about that.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

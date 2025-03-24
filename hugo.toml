@@ -1,4 +1,24 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Marlon Wiebe'
 theme = 'simple-portfolio'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Games'
+pageRef = '/games'
+weight = 20
+
+[[menus.main]]
+name = 'Trailers'
+pageRef = '/trailers'
+weight = 21
+
+[[menus.main]]
+name = 'Thoughts'
+pageRef = '/thoughts'
+weight = 22
