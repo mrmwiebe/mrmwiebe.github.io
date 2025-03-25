@@ -3,11 +3,12 @@ title:      Lovers in a Dangerous Spacetime
 date:       2015-09-15
 params:
   img:   https://i.vimeocdn.com/video/535240921_640.jpg
+summary:  ALERT! ALERT! Lovers HQ has been destroyed by Anti-Love! You and a friend must work together to defeat evil and restore love in this intense co-op game.
 ---
 
-{{ youtube pOnZ9hYiArs }}
+{{< youtube pOnZ9hYiArs >}}
 
-ALERT!  ALERT!  Lovers HQ has been destroyed by Anti-Love!  You and a friend must work together to defeat evil and restore love in this intense co-op game.
+ALERT! ALERT! Lovers HQ has been destroyed by Anti-Love! You and a friend must work together to defeat evil and restore love in this intense co-op game.
 
 ### Credits
 _Editing/Animation_ - Marlon Wiebe  
@@ -18,7 +19,7 @@ _Additional Character Animation_ - [Matt Hammill][437c1892]
 
 ### Making Of
 
-It was such an honour to work with Asteroid Base on this game.  I've been a fan of [Matt Hammill's][437c1892] work previous to LIADS, games like the graphical text adventure [Gilded Youth][05cf31e2] and sneeze-and-sneak-em-up [Gesundheit!][9fbc340e] are fanastic games and they just ooze atmosphere.
+It was such an honour to work with Asteroid Base on this game. I've been a fan of [Matt Hammill's][437c1892] work previous to LIADS, games like the graphical text adventure [Gilded Youth][05cf31e2] and sneeze-and-sneak-em-up [Gesundheit!][9fbc340e] are fanastic games and they just ooze atmosphere.
 
 One of the first things that Matt told me is that if there was any extra animation that he could do, he'd be all over that.  
 

@@ -3,6 +3,7 @@ title:      Orwell
 date:       2016-08-11
 params:
     img:    orwell.png
+summary:    Papers, Please meets the NSA surveillance state in Orwell.
 ---
 
 {{< youtube up-yaDbqH2k >}}

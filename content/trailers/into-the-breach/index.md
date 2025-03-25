@@ -3,6 +3,7 @@ title:      Into the Breach Announcement Trailer
 date:       2017-02-20
 params:
     img:    IntoTheBreach.jpg
+summary:    Use your mechs to defend the last cities on earth from being destroyed by giant monsters in this turn-based tactics game by the makers of FTL.
 ---
 
 {{< vimeo 203014674 >}}

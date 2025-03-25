@@ -3,6 +3,7 @@ title:      Parkitect
 date:       2016-05-07
 params:
     img:    http://img.youtube.com/vi/rbohJtVLdR4/maxresdefault.jpg
+summary:    Watch all 3 silly mini-trailers I helped produce for this Rollercoaster Tycoon 1&2 spiritual successor!
 ---
 
 Watch all 3 silly mini-trailers I helped produce for this Rollercoaster Tycoon 1&2 spiritual successor!

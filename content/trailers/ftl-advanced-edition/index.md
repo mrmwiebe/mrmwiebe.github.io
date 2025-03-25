@@ -2,7 +2,8 @@
 title:      FTL - Advanced Edition
 date:       2013-10-17
 params:
-    img:   https://i.vimeocdn.com/video/465091931_640.jpg
+    img:    https://i.vimeocdn.com/video/465091931_640.jpg
+summary:    A free update to the popular FTL game adds new game modes and a new alien species.
 ---
 
 {{< vimeo 77107928 >}}

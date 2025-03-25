@@ -3,6 +3,7 @@ title:      Into the Breach Launch
 date:       2018-02-27
 params:
     img:    IntoTheBreach.jpg
+summary:    Control powerful mechs from the future to defeat an alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game.
 ---
 
 {{< youtube 4CGoIBYYNdg >}}

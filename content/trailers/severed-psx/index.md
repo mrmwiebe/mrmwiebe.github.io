@@ -3,10 +3,11 @@ title:      Severed PSX 2015
 date:       2015-12-02
 params:
     img:    severed-thumbnail.jpg
+summary:    The hyper stylized dungeon crawling slash-em-up from the studio that brought you Guacamelee!  
 ---
 
 {{< youtube cG5FyiK6Zm8 >}}
-
+ 
 The hyper stylized dungeon crawling slash-em-up from the studio that brought you Guacamelee!  
 
 Take control of a one-armed heroine named Sasha, wielding a living sword on her journey through a nightmarish world in search of her family.

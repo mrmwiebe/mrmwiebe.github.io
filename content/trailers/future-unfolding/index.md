@@ -1,9 +1,9 @@
 ---
 title:      Future Unfolding
 date:       2015-11-14
-categories: 
 params:
-  img:      /images/posts/2015/futureunfolding-thumbnail.png
+  img:      futureunfolding-thumbnail.png
+summary:    Explore the lush, procedurally generated world of Future Unfolding, the new game from Spaces of Play, the creators of the hit game Spirits.
 ---
 
 {{< youtube TaSHoqUFPNk >}}

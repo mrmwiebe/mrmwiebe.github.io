@@ -3,6 +3,7 @@ title:      Immortal Redneck
 date:       2017-04-25
 params:
     img:    ImmortalRedneck-thumb.png
+summary:    Rogue Legacy meets an FPS in Egypt, with an unlikely hero.
 ---
 
 {{< youtube VGyvt1Vk5bs >}}

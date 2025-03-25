@@ -1,8 +1,9 @@
 ---
-title:      NecroDancer Plushie Commercial
-date:       2016-02-28
+title:    NecroDancer Plushie Commercial
+date:     2016-02-28
 params:
-  img:      http://img.youtube.com/vi/IWIeEr3B97w/maxresdefault.jpg
+  img:    http://img.youtube.com/vi/IWIeEr3B97w/maxresdefault.jpg
+summary:  Own a physical singing version of the merchant from Crypt of the Necrodancer!
 ---
 
 {{< youtube IWIeEr3B97w >}}

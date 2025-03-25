@@ -1,8 +1,9 @@
 ---
-title:      Duskers Early Access
-date:       2015-07-28
+title:   Duskers Early Access
+date:    2015-07-28
 params:
   img:   /images/posts/2015/duskers-thumbnail.png
+summary: Survive in space by sending your drones into derelict spaceships and scavenging what you can.  But be careful, one false step could mean your drones are gone for good.
 ---
 
 {{< youtube nWWrISpsIIw >}}

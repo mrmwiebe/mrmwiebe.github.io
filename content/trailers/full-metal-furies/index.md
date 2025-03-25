@@ -2,7 +2,8 @@
 title:      Full Metal Furies
 date:       2018-01-19
 params:
-    img:        fmf.jpg
+    img:    fmf.jpg
+summary:    From the creators of Rogue Legacy comes a "true-cooperative" action RPG.  Full Metal Furies puts an emphasis on team play with a unique combat system where everyone is important.
 ---
 
 {{< youtube 6wUFjPdDo6Q >}}

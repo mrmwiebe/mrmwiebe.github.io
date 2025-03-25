@@ -1,8 +1,9 @@
 ---
-title:      Monsters and Monocles PSX Announcement
-date:       2015-12-03
+title:    Monsters and Monocles PSX Announcement
+date:     2015-12-03
 params:
-  img:      m&m-thumbnail.png
+  img:    m&m-thumbnail.png
+summary:  Monsters and Monocles is a tale of comrades, ballistics & high tea.  This co-op twin stick shooter has style for days!
 ---
 
 {{< youtube Kf0xnzHJsJI >}}

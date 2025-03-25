@@ -1,8 +1,9 @@
 ---
-title:      Starsector
-date:       2015-11-19
+title:    Starsector
+date:     2015-11-19
 params:
-  img:      starsector-thumbnail.png
+  img:    starsector-thumbnail.png
+summary:  Build up your fleet, micro manage your ships, and engage in epic galactic battles in Starsector!
 ---
 
 {{< youtube eAvo3S0MD-o >}}

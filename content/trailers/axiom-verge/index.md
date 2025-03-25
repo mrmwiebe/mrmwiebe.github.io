@@ -2,7 +2,8 @@
 title:      Axiom Verge
 date:       2015-03-31
 params:
-  img:        http://img.youtube.com/vi/T_n8IyHE3og/maxresdefault.jpg
+  img:      http://img.youtube.com/vi/T_n8IyHE3og/maxresdefault.jpg
+summary:    Uncover the mystery of a surreal alien world by glitching out your envrionment and exploring Metroid style.
 ---
 
 {{< youtube T_n8IyHE3og >}}

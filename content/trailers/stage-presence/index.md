@@ -2,7 +2,8 @@
 title:      Stage Presence
 date:       2017-02-20
 params:
-    img:   /images/posts/2017/StagePresence-thumb.jpg
+    img:    StagePresence-thumb.jpg
+summary:    Your bands gear fries onstage and it's up to you to keep the crowd from rioting in this free-form music game.
 ---
 
 {{< youtube 8i7wFvK4uHk >}}

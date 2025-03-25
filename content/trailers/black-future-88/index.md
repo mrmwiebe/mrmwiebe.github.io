@@ -2,7 +2,8 @@
 title:      Black Future '88
 date:       2018-03-14
 params:
-    img:        blackfuture.jpg
+    img:    blackfuture.jpg
+summary:    Black Future ‘88’s neon-lit retro-future style paints a dark alternate history of a world reeling from a nuclear cataclysm created  by Duncan, the tower architect.
 ---
 
 {{< youtube EHj1e8ZqZMM >}}

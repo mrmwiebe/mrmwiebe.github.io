@@ -3,6 +3,7 @@ title:      Where The Water Tastes Like Wine
 date:       2018-02-14
 params:
     img:    wherethewater.jpg
+summary:    Where the Water Tastes Like Wine is a Narrative-Adventure game about traveling, sharing stories, and surviving manifest destiny.
 ---
 
 {{< youtube 7COHKGpwcz4 >}}

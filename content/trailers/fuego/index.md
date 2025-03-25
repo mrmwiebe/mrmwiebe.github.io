@@ -1,8 +1,10 @@
 ---
-title:      Fuego!
-date:       2015-08-30
+title:    Fuego!
+date:     2015-08-30
 params:
-  img:   http://img.youtube.com/vi/wGUljDHt9U4/maxresdefault.jpg
+  img:    http://img.youtube.com/vi/wGUljDHt9U4/maxresdefault.jpg
+summary:  An online simultaneous turn-based Mexican standoff game that gets it right.  Play against friends online or go solo in puzzle mode.
+
 ---
 
 {{< youtube wGUljDHt9U4 >}}

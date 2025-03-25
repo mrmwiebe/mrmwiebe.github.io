@@ -2,7 +2,8 @@
 title:      Darkest Dungeon Launch
 date:       2016-01-19
 params:
-  img:   /images/posts/2016/darkestdungeonlaunch-thumbnail.png
+  img:      darkestdungeonlaunch-thumbnail.png
+summary:    The critically acclaimed stress management RPG Darkest Dungeon finally comes out of Early Access!
 ---
 
 {{< youtube h-mXN3akTPU >}}

@@ -2,7 +2,8 @@
 title:      Cryptark
 date:       2015-08-07
 params:
-    img:        cryptark-thumbnail.jpg
+    img:    cryptark-thumbnail.jpg
+summary:    Derelict spaceships are floating through the galaxy ready to be stripped of scrap.  But it won't be easy.  You need to plan your assault, choose your weapons wisely, and don't waste your ammo!  It ain't cheap.
 ---
 
 {{< youtube s2Wi2YVQgSo >}}

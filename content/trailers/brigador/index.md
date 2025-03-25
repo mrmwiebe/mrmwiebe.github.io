@@ -2,7 +2,8 @@
 title:      Brigador Up Armored Edition
 date:       2017-06-02
 params:
-    img:        Brigador.jpg
+    img:    Brigador.jpg
+summary:    Experience destructible environments with 56 different playable vehicles in roguelite isometric mayhem. Great Leader is dead! Liberate Solo Nobre tonight.
 ---
 
 {{< youtube JZEjlBCwap0 >}}

@@ -26,20 +26,11 @@
     <loc>http://localhost:1313/trailers/into-the-breach-launch/</loc>
     <lastmod>2018-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/video/</loc>
-    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/trailers/water-tastes-like-wine/</loc>
     <lastmod>2018-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/trailers/full-metal-furies/</loc>
     <lastmod>2018-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/homepage-video-video/</loc>
-    <lastmod>2017-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/trailers/industries-of-titan/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
@@ -52,9 +43,6 @@
   </url><url>
     <loc>http://localhost:1313/trailers/brigador/</loc>
     <lastmod>2017-06-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/featured-video-video/</loc>
-    <lastmod>2017-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/trailers/immortal-redneck/</loc>
     <lastmod>2017-04-25T00:00:00+00:00</lastmod>
@@ -84,6 +72,9 @@
     <lastmod>2016-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/blog-game/</loc>
+    <lastmod>2016-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2016-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/maek-project/</loc>

@@ -3,6 +3,7 @@ title:      Redeemer
 date:       2017-07-31
 params:
     img:    redeemer-thumb.jpg
+summary:    Punch, hack, and blast your way through enemies using fists, hammers, fire arms, and even the environment.
 ---
 
 {{< youtube u-ryeoJa1Ys >}}

@@ -1,8 +1,9 @@
 ---
-title:      Quote
-date:       2016-09-14
+title:    Quote
+date:     2016-09-14
 params:
-  img:   /images/posts/2016/quote.jpg
+  img:    quote.jpg
+summary:  Burn every book.  Kill every author.  Purify the world for the God of Ignorance.
 ---
 
 {{< youtube YymBSciRCac >}}

@@ -2,7 +2,8 @@
 title:      Duskers Launch Trailer
 date:       2016-05-20
 params:
-    img:   duskers-thumbnail.png
+    img:    duskers-thumbnail.png
+summary:    Pilot your drones through derelict spaceships in Misfit Attic's hyper-atmospheric Duskers.
 ---
 
 {{< youtube dux33m_7M6w >}}

@@ -1,8 +1,9 @@
 ---
-title:      Holoball
-date:       2016-11-20
+title:    Holoball
+date:     2016-11-20
 params:
-  img:      Holoball-Logo.jpg
+  img:    Holoball-Logo.jpg
+summary:  Use your wits and your paddles to win against a rogue AI in order to win your freedom in this 80s inspired neon soaked VR raquetball game.
 ---
 
 {{< youtube Bl1IZzPxqME >}}

@@ -2,7 +2,8 @@
 title:      Industries of Titan
 date:       2017-09-05
 params:
-    img:   /images/posts/2017/industries.jpg
+    img:    industries.jpg
+summary:    My first attempt at working with 3D keyframed animations in-engine for this innovative sim-strategy game by the Crypt of the Necrodancer devs.
 ---
 
 {{< youtube D7uuz0RW_z8 >}}
