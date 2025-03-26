@@ -2,7 +2,7 @@
 title:      Severed PSX 2015
 date:       2015-12-02
 params:
-    img:    severed-thumbnail.jpg
+    img:    severed thumbnail.jpg
 summary:    The hyper stylized dungeon crawling slash-em-up from the studio that brought you Guacamelee!  
 ---
 

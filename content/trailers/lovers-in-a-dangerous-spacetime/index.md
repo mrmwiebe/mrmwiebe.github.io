@@ -2,7 +2,7 @@
 title:      Lovers in a Dangerous Spacetime
 date:       2015-09-15
 params:
-  img:   https://i.vimeocdn.com/video/535240921_640.jpg
+  img:    lovers.webp
 summary:  ALERT! ALERT! Lovers HQ has been destroyed by Anti-Love! You and a friend must work together to defeat evil and restore love in this intense co-op game.
 ---
 

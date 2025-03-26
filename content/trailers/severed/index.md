@@ -2,7 +2,7 @@
 title:    Severed
 date:     2014-12-22
 params:
-  img:    http://i.vimeocdn.com/video/501178880_640.jpg
+  img:    severed-thumbnail.jpg
 summary:  Stylish touchscreen slash-em-up action game by the studio that brought you Guacamelee.
 ---
 

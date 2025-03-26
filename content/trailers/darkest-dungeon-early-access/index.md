@@ -2,7 +2,7 @@
 title:      Darkest Dungeon Early Access
 date:       2015-07-10
 params:
-    img:    http://i.vimeocdn.com/video/505700326_640.jpg
+    img:    darkest dungeon thumbnail.jpg
 summary:    Assemble your team and uncover the Lovecraftian horrors that lurk beneath the Darkest Dungeon.  But beware, the sights seen below will forever affect your troops.
 ---
 

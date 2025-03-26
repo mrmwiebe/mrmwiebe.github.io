@@ -2,7 +2,7 @@
 title:      ROCKETS ROCKETS ROCKETS
 date:       2015-07-11
 params:
-    img:    https://i.vimeocdn.com/video/535239779_640.jpg
+    img:    rockets thumbnail.jpg
 summary:    Radial Games' multiplayer shoot-em-up has you flying Rockets that shoot Rockets at other Rockets.
 ---
 

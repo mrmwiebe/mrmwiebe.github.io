@@ -2,7 +2,7 @@
 title:    Viking Squad
 date:     2014-07-12
 params:
-  img:    http://i.vimeocdn.com/video/488840124_640.jpg
+  img:    viking squad thumbnail.jpg
 summary:  Beat up bears in barrels wielding fish in this frenetic lane-based brawler by Slick Entertainment.
 ---
 
