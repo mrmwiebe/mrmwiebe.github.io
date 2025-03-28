@@ -984,62 +984,135 @@
 
 @font-face {
   font-family: Rise;
-  font-weight: 100;
-  src: url("/fonts/ChevyRayRise.ttf");
+  src: url("/fonts/ChevyRay - Stapler.ttf");
 }
 
 html {
-  background-color: #445B63;
+  background-color: #1B4F62;
 }
 
 body {
-  color: #A3C4BC;
+  color: #8BC8C8;
   font-family: "Sofia Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
   font-size: large;
   line-height: 1.5;
+  margin: auto;
+}
+
+main {
   max-width: 1400px;
   margin: auto;
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
 header {
-  margin-bottom: 1rem;
+  margin-bottom: 4rem;
+  padding-bottom: 1.2rem;
+  padding-top: 1.2rem;
+  background-color: #0D3341;
+  background-image: url("/clouds-clear.png");
+  background-position-y: center;
+}
+
+header * {
+  vertical-align: middle;
+  line-height: normal;
+  align-content: center;
+}
+
+header .header-container {
+  max-width: 1400px;
+}
+
+header .header-container .profile-pic {
+  text-align: left;
+}
+
+header .header-container .profile-pic img {
+  border-radius: 50%;
+  max-width: 125px;
+}
+
+header .header-container .menu-container {
+  display: inline;
+}
+
+header .header-container .menu-container a {
+  color: #8BC8C8;
+  font-style: italic;
+}
+
+header .header-container span {
+  color: #1B4F62;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+header .header-container h1 {
+  display: inline;
+}
+
+header .header-container h1 img {
+  max-width: 440px;
+}
+
+header .header-container nav {
+  display: inline-block;
+}
+
+header .header-container nav ul {
+  margin: 0;
+}
+
+header .header-container nav li {
+  display: inline;
+  list-style: none;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
-  font-family: "Rise", sans-serif;
+  font-family: Rise, sans-serif;
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
   -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #A3C4BC;
-  color: #445B63;
+  -webkit-text-stroke-color: #8BC8C8;
+  color: #1B4F62;
+  text-decoration: none;
+}
+
+h1 a {
+  font-family: Rise, sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  color: #1B4F62;
+  text-decoration: none;
 }
 
 h2 {
-  font-family: "Rise", sans-serif;
+  font-family: Rise, sans-serif;
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
   font-size: 2rem;
-  background-color: #A3C4BC;
+  background-color: #8BC8C8;
   line-height: normal;
-  box-shadow: #41555c 5px 5px;
+  box-shadow: #0D3341 5px 5px;
 }
 
 h2 span {
-  background-color: #445B63;
+  background-color: #1B4F62;
   padding-bottom: 15px;
   padding-right: 15px;
-  text-shadow: #41555c 5px 5px;
+  text-shadow: #0D3341 5px 5px;
 }
 
 h3 {
-  font-family: "Rise", sans-serif;
+  font-family: Rise, sans-serif;
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
@@ -1061,13 +1134,16 @@ a {
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
-  color: #D9CFC1;
+  color: #EDC39D;
   text-decoration: underline;
 }
 
 img {
   width: 100%;
-  outline: 5px solid #A3C4BC;
+}
+
+img.outline {
+  outline: 5px solid #8BC8C8;
   outline-offset: -5px;
 }
 
@@ -1081,6 +1157,11 @@ img {
 
 .single img {
   max-height: 30%;
+}
+
+.single time {
+  position: relative;
+  bottom: 12px;
 }
 
 /*# sourceMappingURL=main.css.map */
